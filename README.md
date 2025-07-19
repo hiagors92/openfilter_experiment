@@ -38,15 +38,15 @@ The main goal of this experiment is to explore the capabilities and limitations 
 
 This project uses [SonarCloud](https://sonarcloud.io/summary/overall?id=hiagors92_openfilter_experiment) to continuously monitor and improve code quality.
 
-| Metric            | Status                                                                 | Description                                |
-|-------------------|------------------------------------------------------------------------|--------------------------------------------|
-| **Quality Gate** | ![Quality Gate](https://sonarcloud.io/api/project_badges/measure?project=hiagors92_openfilter_experiment&metric=alert_status) | Global pass/fail status                     |
-| **Security**     | ![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=hiagors92_openfilter_experiment&metric=security_rating) | 0 open issues                               |
-| **Reliability**  | ![Reliability Rating](https://sonarcloud.io/api/project_badges/measure?project=hiagors92_openfilter_experiment&metric=reliability_rating) | 7 issues                                    |
-| **Maintainability** | ![Maintainability](https://sonarcloud.io/api/project_badges/measure?project=hiagors92_openfilter_experiment&metric=sqale_rating) | 890 code smells                             |
-| **Bugs**         | ![Bugs](https://sonarcloud.io/api/project_badges/measure?project=hiagors92_openfilter_experiment&metric=bugs) | Minor bugs detected                         |
-| **Code Smells**  | ![Code Smells](https://sonarcloud.io/api/project_badges/measure?project=hiagors92_openfilter_experiment&metric=code_smells) | Mostly minor (A-rated)                     |
-| **Coverage**     | ![Coverage](https://sonarcloud.io/api/project_badges/measure?project=hiagors92_openfilter_experiment&metric=coverage) | Not yet configured                          |
-| **Duplications** | ![Duplicated Lines](https://sonarcloud.io/api/project_badges/measure?project=hiagors92_openfilter_experiment&metric=duplicated_lines_density) | 11.0% duplicated code                       |
+| **Metric**         | **Badge**                                                                                                                                      | **Value**                    |
+|--------------------|------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------|
+| Quality Gate       | ![Quality Gate](https://sonarcloud.io/api/project_badges/measure?project=hiagors92_openfilter_experiment&metric=alert_status)                | Passed / Failed              |
+| Security           | ![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=hiagors92_openfilter_experiment&metric=security_rating)          | Rating (e.g., A)             |
+| Reliability        | ![Reliability Rating](https://sonarcloud.io/api/project_badges/measure?project=hiagors92_openfilter_experiment&metric=reliability_rating)     | # of Issues (e.g., 7)        |
+| Maintainability    | ![Maintainability](https://sonarcloud.io/api/project_badges/measure?project=hiagors92_openfilter_experiment&metric=sqale_rating)              | # of Code Smells (e.g., 890) |
+| Bugs               | ![Bugs](https://sonarcloud.io/api/project_badges/measure?project=hiagors92_openfilter_experiment&metric=bugs)                                | Total Bugs Found             |
+| Code Smells        | ![Code Smells](https://sonarcloud.io/api/project_badges/measure?project=hiagors92_openfilter_experiment&metric=code_smells)                   | Mostly Minor / A-rated       |
+| Coverage           | ![Coverage](https://sonarcloud.io/api/project_badges/measure?project=hiagors92_openfilter_experiment&metric=coverage)                         | % of Code Coverage           |
+| Duplications       | ![Duplicated Lines](https://sonarcloud.io/api/project_badges/measure?project=hiagors92_openfilter_experiment&metric=duplicated_lines_density) | % of Duplicated Code         |
 
-> **Automatic Analysis** is triggered on every push to `main` via GitHub Actions.
+> Automated analysis is triggered on every push to the `main` branch via GitHub Actions.
