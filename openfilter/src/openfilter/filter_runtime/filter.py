@@ -18,7 +18,7 @@ from .utils import JSONType, json_getval, simpledeepcopy, dict_without, split_co
     adict, DaemonicTimer, SignalStopper
 
 
-from openfilter.lineage import openlineage_client as FilterLineage
+from openfilter.filter_runtime.lineage import openlineage_client as FilterLineage
 
 __all__ = ['is_cached_file', 'is_mq_addr', 'FilterConfig', 'Filter']
 
