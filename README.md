@@ -42,10 +42,10 @@ This project uses [SonarCloud](https://sonarcloud.io/summary/overall?id=hiagors9
 |--------------------|------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------|
 | Quality Gate       | ![Quality Gate](https://sonarcloud.io/api/project_badges/measure?project=hiagors92_openfilter_experiment&metric=alert_status)                | Passed / Failed              |
 | Security           | ![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=hiagors92_openfilter_experiment&metric=security_rating)          | Rating (e.g., A)             |
-| Reliability        | ![Reliability Rating](https://sonarcloud.io/api/project_badges/measure?project=hiagors92_openfilter_experiment&metric=reliability_rating)     | # of Issues (e.g., 7)        |
-| Maintainability    | ![Maintainability](https://sonarcloud.io/api/project_badges/measure?project=hiagors92_openfilter_experiment&metric=sqale_rating)              | # of Code Smells (e.g., 890) |
+| Reliability        | ![Reliability Rating](https://sonarcloud.io/api/project_badges/measure?project=hiagors92_openfilter_experiment&metric=reliability_rating)     |   of Issues (e.g., 7)        |
+| Maintainability    | ![Maintainability](https://sonarcloud.io/api/project_badges/measure?project=hiagors92_openfilter_experiment&metric=sqale_rating)              | Mostly Minor / A-rated |
 | Bugs               | ![Bugs](https://sonarcloud.io/api/project_badges/measure?project=hiagors92_openfilter_experiment&metric=bugs)                                | Total Bugs Found             |
-| Code Smells        | ![Code Smells](https://sonarcloud.io/api/project_badges/measure?project=hiagors92_openfilter_experiment&metric=code_smells)                   | Mostly Minor / A-rated       |
+| Code Smells        | ![Code Smells](https://sonarcloud.io/api/project_badges/measure?project=hiagors92_openfilter_experiment&metric=code_smells)                   |   of Code Smells (e.g., 890)       |
 | Coverage           | ![Coverage](https://sonarcloud.io/api/project_badges/measure?project=hiagors92_openfilter_experiment&metric=coverage)                         | % of Code Coverage           |
 | Duplications       | ![Duplicated Lines](https://sonarcloud.io/api/project_badges/measure?project=hiagors92_openfilter_experiment&metric=duplicated_lines_density) | % of Duplicated Code         |
 
