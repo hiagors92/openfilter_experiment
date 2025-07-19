@@ -48,4 +48,18 @@ This project uses [SonarQube](https://sonarcloud.io/) to continuously monitor an
 - **Security Hotspots**: 32
 - **Test Coverage**: Not yet configured
 
+
+## Quality & Code Analysis
+
+This project uses [SonarQube](https://sonarcloud.io/summary/overall?id=hiagors92_openfilter_experiment) to continuously monitor and improve code quality.
+
+![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=hiagors92_openfilter_experiment&metric=alert_status)
+![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=hiagors92_openfilter_experiment&metric=security_rating)
+![Reliability Rating](https://sonarcloud.io/api/project_badges/measure?project=hiagors92_openfilter_experiment&metric=reliability_rating)
+![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=hiagors92_openfilter_experiment&metric=sqale_rating)
+![Bugs](https://sonarcloud.io/api/project_badges/measure?project=hiagors92_openfilter_experiment&metric=bugs)
+![Code Smells](https://sonarcloud.io/api/project_badges/measure?project=hiagors92_openfilter_experiment&metric=code_smells)
+![Coverage](https://sonarcloud.io/api/project_badges/measure?project=hiagors92_openfilter_experiment&metric=coverage)
+![Duplicated Lines](https://sonarcloud.io/api/project_badges/measure?project=hiagors92_openfilter_experiment&metric=duplicated_lines_density)
+
 > SonarQube analysis is triggered automatically via GitHub Actions on every push to `main`.
