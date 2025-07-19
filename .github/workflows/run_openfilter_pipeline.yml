@@ -38,7 +38,8 @@ jobs:
           python-version: '3.12'
       - run: |
           cd openfilter
-          pip install poetrypoetry env use python3
+          pip install poetry
+          poetry env use python3
           source $(poetry env info --path)/bin/activate
           poetry install --no-root
       - run: |
