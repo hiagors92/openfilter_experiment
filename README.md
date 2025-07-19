@@ -5,6 +5,7 @@ This repository is dedicated to experimenting with the OpenFilter framework to b
 ## Purpose
 
 The main goal of this experiment is to explore the capabilities and limitations of OpenFilter when applied to real-world scenarios involving license plate detection and recognition.
+- Integrate SonarQube for continuous code quality analysis
 
 ## Experiment Phases
 
@@ -33,3 +34,18 @@ The main goal of this experiment is to explore the capabilities and limitations 
 - Summarize findings, code decisions, and error handling.
 - Reflect on the hypothesis and what could be productized or researched further.
 
+## Quality & Code Analysis
+
+This project uses [SonarQube](https://sonarcloud.io/) to continuously monitor and improve code quality.
+
+![SonarQube Analysis](https://sonarcloud.io/api/project_badges/measure?project=hiagors92_openfilter_experiment&metric=alert_status)
+
+### Key Metrics from Latest Analysis:
+- **Security**: A (0 open issues)
+- **Reliability**: C (7 open issues)
+- **Maintainability**: A (890 issues, mostly minor code smells)
+- **Duplications**: 11.0%
+- **Security Hotspots**: 32
+- **Test Coverage**: Not yet configured
+
+> SonarQube analysis is triggered automatically via GitHub Actions on every push to `main`.

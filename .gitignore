@@ -6,6 +6,12 @@ __pycache__/
 # C extensions
 *.so
 
+# SonarLint (configuração local da IDE)
+.sonarlint/
+
+# VS Code
+.vscode/
+
 # Distribution / packaging
 .Python
 build/
