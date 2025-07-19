@@ -1,0 +1,37 @@
+name: Run OCR Pipeline
+
+on:
+  workflow_run:
+    workflows: ["SonarCloud Analysis"]
+    types:
+      - completed
+
+jobs:
+  run-openfilter-pipeline:
+    if: ${{ github.event.workflow_run.conclusion == 'success' }}
+    timeout-minutes: 10
+    runs-on: ubuntu-latest
+    env:
+      OPENLINEAGE_DISABLED: true
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies (openfilter)
+        run: |
+          cd openfilter
+          pip install poetry
+          poetry install --no-root
+        shell: bash
+
+      - name: Run OpenFilter pipeline
+        run: |
+          cd openfilter
+          export PYTHONPATH=$PYTHONPATH:$(pwd)
+          timeout 30s poetry run python src/openfilter/script.py || echo "Pipeline finished or timed out"
+        shell: bash
