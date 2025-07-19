@@ -36,30 +36,17 @@ The main goal of this experiment is to explore the capabilities and limitations 
 
 ## Quality & Code Analysis
 
-This project uses [SonarQube](https://sonarcloud.io/) to continuously monitor and improve code quality.
+This project uses [SonarCloud](https://sonarcloud.io/summary/overall?id=hiagors92_openfilter_experiment) to continuously monitor and improve code quality.
 
-![SonarQube Analysis](https://sonarcloud.io/api/project_badges/measure?project=hiagors92_openfilter_experiment&metric=alert_status)
+| Metric            | Status                                                                 | Description                                |
+|-------------------|------------------------------------------------------------------------|--------------------------------------------|
+| **Quality Gate** | ![Quality Gate](https://sonarcloud.io/api/project_badges/measure?project=hiagors92_openfilter_experiment&metric=alert_status) | Global pass/fail status                     |
+| **Security**     | ![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=hiagors92_openfilter_experiment&metric=security_rating) | 0 open issues                               |
+| **Reliability**  | ![Reliability Rating](https://sonarcloud.io/api/project_badges/measure?project=hiagors92_openfilter_experiment&metric=reliability_rating) | 7 issues                                    |
+| **Maintainability** | ![Maintainability](https://sonarcloud.io/api/project_badges/measure?project=hiagors92_openfilter_experiment&metric=sqale_rating) | 890 code smells                             |
+| **Bugs**         | ![Bugs](https://sonarcloud.io/api/project_badges/measure?project=hiagors92_openfilter_experiment&metric=bugs) | Minor bugs detected                         |
+| **Code Smells**  | ![Code Smells](https://sonarcloud.io/api/project_badges/measure?project=hiagors92_openfilter_experiment&metric=code_smells) | Mostly minor (A-rated)                     |
+| **Coverage**     | ![Coverage](https://sonarcloud.io/api/project_badges/measure?project=hiagors92_openfilter_experiment&metric=coverage) | Not yet configured                          |
+| **Duplications** | ![Duplicated Lines](https://sonarcloud.io/api/project_badges/measure?project=hiagors92_openfilter_experiment&metric=duplicated_lines_density) | 11.0% duplicated code                       |
 
-### Key Metrics from Latest Analysis:
-- **Security**: A (0 open issues)
-- **Reliability**: C (7 open issues)
-- **Maintainability**: A (890 issues, mostly minor code smells)
-- **Duplications**: 11.0%
-- **Security Hotspots**: 32
-- **Test Coverage**: Not yet configured
-
-
-## Quality & Code Analysis
-
-This project uses [SonarQube](https://sonarcloud.io/summary/overall?id=hiagors92_openfilter_experiment) to continuously monitor and improve code quality.
-
-![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=hiagors92_openfilter_experiment&metric=alert_status)
-![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=hiagors92_openfilter_experiment&metric=security_rating)
-![Reliability Rating](https://sonarcloud.io/api/project_badges/measure?project=hiagors92_openfilter_experiment&metric=reliability_rating)
-![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=hiagors92_openfilter_experiment&metric=sqale_rating)
-![Bugs](https://sonarcloud.io/api/project_badges/measure?project=hiagors92_openfilter_experiment&metric=bugs)
-![Code Smells](https://sonarcloud.io/api/project_badges/measure?project=hiagors92_openfilter_experiment&metric=code_smells)
-![Coverage](https://sonarcloud.io/api/project_badges/measure?project=hiagors92_openfilter_experiment&metric=coverage)
-![Duplicated Lines](https://sonarcloud.io/api/project_badges/measure?project=hiagors92_openfilter_experiment&metric=duplicated_lines_density)
-
-> SonarQube analysis is triggered automatically via GitHub Actions on every push to `main`.
+> **Automatic Analysis** is triggered on every push to `main` via GitHub Actions.
