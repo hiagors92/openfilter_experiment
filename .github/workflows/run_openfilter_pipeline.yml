@@ -43,4 +43,7 @@ jobs:
           source $(poetry env info --path)/bin/activate
           poetry install --no-root
       - run: |
+          cd openfilter
+          poetry env use python3
+          source $(poetry env info --path)/bin/activate
           timeout 30s poetry run python src/openfilter/script.py || echo "Pipeline finished or timed out"
