@@ -2,7 +2,7 @@
     {
         "meta": {
             "id": 0,
-            "ts": 1752965858.914499,
+            "ts": 1752968034.037821,
             "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
             "src_fps": 30.0,
             "ocr_texts": [
@@ -13,7 +13,7 @@
     {
         "meta": {
             "id": 1,
-            "ts": 1752965858.947829,
+            "ts": 1752968034.072267,
             "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
             "src_fps": 30.0,
             "ocr_texts": [
@@ -24,7 +24,7 @@
     {
         "meta": {
             "id": 2,
-            "ts": 1752965858.981185,
+            "ts": 1752968034.105598,
             "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
             "src_fps": 30.0,
             "ocr_texts": [
@@ -35,40 +35,18 @@
     {
         "meta": {
             "id": 3,
-            "ts": 1752965859.314497,
+            "ts": 1752968034.570338,
             "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
             "src_fps": 30.0,
             "ocr_texts": [
-                "(bFR4732"
+                "IdfR4732"
             ]
         }
     },
     {
         "meta": {
             "id": 4,
-            "ts": 1752965859.447836,
-            "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
-            "src_fps": 30.0,
-            "ocr_texts": [
-                "IdfR4732"
-            ]
-        }
-    },
-    {
-        "meta": {
-            "id": 5,
-            "ts": 1752965859.614499,
-            "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
-            "src_fps": 30.0,
-            "ocr_texts": [
-                "IdfR4732"
-            ]
-        }
-    },
-    {
-        "meta": {
-            "id": 6,
-            "ts": 1752965859.747831,
+            "ts": 1752968034.738934,
             "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
             "src_fps": 30.0,
             "ocr_texts": [
@@ -78,8 +56,30 @@
     },
     {
         "meta": {
+            "id": 5,
+            "ts": 1752968034.872281,
+            "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
+            "src_fps": 30.0,
+            "ocr_texts": [
+                "TbFR4732"
+            ]
+        }
+    },
+    {
+        "meta": {
+            "id": 6,
+            "ts": 1752968035.038931,
+            "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
+            "src_fps": 30.0,
+            "ocr_texts": [
+                "(pFR4732"
+            ]
+        }
+    },
+    {
+        "meta": {
             "id": 7,
-            "ts": 1752965859.881184,
+            "ts": 1752968035.172726,
             "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
             "src_fps": 30.0,
             "ocr_texts": [
@@ -90,18 +90,18 @@
     {
         "meta": {
             "id": 8,
-            "ts": 1752965860.047846,
+            "ts": 1752968035.338929,
             "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
             "src_fps": 30.0,
             "ocr_texts": [
-                "(pFR4732"
+                "(bFR4732"
             ]
         }
     },
     {
         "meta": {
             "id": 9,
-            "ts": 1752965860.18119,
+            "ts": 1752968035.471914,
             "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
             "src_fps": 30.0,
             "ocr_texts": [
@@ -112,7 +112,7 @@
     {
         "meta": {
             "id": 10,
-            "ts": 1752965860.314497,
+            "ts": 1752968035.636607,
             "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
             "src_fps": 30.0,
             "ocr_texts": [
@@ -123,7 +123,7 @@
     {
         "meta": {
             "id": 11,
-            "ts": 1752965860.481163,
+            "ts": 1752968035.770349,
             "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
             "src_fps": 30.0,
             "ocr_texts": [
@@ -134,7 +134,7 @@
     {
         "meta": {
             "id": 12,
-            "ts": 1752965860.614521,
+            "ts": 1752968035.904135,
             "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
             "src_fps": 30.0,
             "ocr_texts": [
@@ -145,51 +145,29 @@
     {
         "meta": {
             "id": 13,
-            "ts": 1752965860.747828,
+            "ts": 1752968036.072251,
             "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
             "src_fps": 30.0,
             "ocr_texts": [
-                "(bFR4732"
+                "(pFR4132"
             ]
         }
     },
     {
         "meta": {
             "id": 14,
-            "ts": 1752965860.879372,
+            "ts": 1752968036.205606,
             "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
             "src_fps": 30.0,
             "ocr_texts": [
-                "(bFR4732"
+                "(pFR4132"
             ]
         }
     },
     {
         "meta": {
             "id": 15,
-            "ts": 1752965861.044737,
-            "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
-            "src_fps": 30.0,
-            "ocr_texts": [
-                "(pFR4132"
-            ]
-        }
-    },
-    {
-        "meta": {
-            "id": 16,
-            "ts": 1752965861.18117,
-            "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
-            "src_fps": 30.0,
-            "ocr_texts": [
-                "(pFR4132"
-            ]
-        }
-    },
-    {
-        "meta": {
-            "id": 17,
-            "ts": 1752965861.348137,
+            "ts": 1752968036.369497,
             "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
             "src_fps": 30.0,
             "ocr_texts": [
@@ -199,8 +177,30 @@
     },
     {
         "meta": {
+            "id": 16,
+            "ts": 1752968036.505586,
+            "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
+            "src_fps": 30.0,
+            "ocr_texts": [
+                "(pfR4732"
+            ]
+        }
+    },
+    {
+        "meta": {
+            "id": 17,
+            "ts": 1752968036.672266,
+            "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
+            "src_fps": 30.0,
+            "ocr_texts": [
+                "(pFR4732"
+            ]
+        }
+    },
+    {
+        "meta": {
             "id": 18,
-            "ts": 1752965861.509688,
+            "ts": 1752968036.8056,
             "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
             "src_fps": 30.0,
             "ocr_texts": [
@@ -211,18 +211,18 @@
     {
         "meta": {
             "id": 19,
-            "ts": 1752965861.676289,
+            "ts": 1752968036.972258,
             "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
             "src_fps": 30.0,
             "ocr_texts": [
-                "(pFR4132"
+                "(bFR4732"
             ]
         }
     },
     {
         "meta": {
             "id": 20,
-            "ts": 1752965861.814076,
+            "ts": 1752968037.135698,
             "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
             "src_fps": 30.0,
             "ocr_texts": [
@@ -233,7 +233,7 @@
     {
         "meta": {
             "id": 21,
-            "ts": 1752965861.946061,
+            "ts": 1752968037.272271,
             "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
             "src_fps": 30.0,
             "ocr_texts": [
@@ -244,40 +244,40 @@
     {
         "meta": {
             "id": 22,
-            "ts": 1752965862.114496,
+            "ts": 1752968037.438922,
             "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
             "src_fps": 30.0,
             "ocr_texts": [
-                "(bFR4732"
+                "(pFR4132"
             ]
         }
     },
     {
         "meta": {
             "id": 23,
-            "ts": 1752965862.247832,
+            "ts": 1752968037.572267,
             "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
             "src_fps": 30.0,
             "ocr_texts": [
-                "(bFR4732"
+                "(pFR4132"
             ]
         }
     },
     {
         "meta": {
             "id": 24,
-            "ts": 1752965862.380727,
+            "ts": 1752968037.735978,
             "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
             "src_fps": 30.0,
             "ocr_texts": [
-                "(bFR4732"
+                "(pFR4132"
             ]
         }
     },
     {
         "meta": {
             "id": 25,
-            "ts": 1752965862.511378,
+            "ts": 1752968037.872252,
             "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
             "src_fps": 30.0,
             "ocr_texts": [
@@ -288,29 +288,29 @@
     {
         "meta": {
             "id": 26,
-            "ts": 1752965862.68116,
+            "ts": 1752968038.035628,
             "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
             "src_fps": 30.0,
             "ocr_texts": [
-                "(pFR4132"
+                "(pFR4L3Z"
             ]
         }
     },
     {
         "meta": {
             "id": 27,
-            "ts": 1752965862.814516,
+            "ts": 1752968038.172263,
             "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
             "src_fps": 30.0,
             "ocr_texts": [
-                "(pFR4132"
+                "(pFR4L3Z"
             ]
         }
     },
     {
         "meta": {
             "id": 28,
-            "ts": 1752965862.947834,
+            "ts": 1752968038.33626,
             "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
             "src_fps": 30.0,
             "ocr_texts": [
@@ -321,18 +321,18 @@
     {
         "meta": {
             "id": 29,
-            "ts": 1752965863.114495,
+            "ts": 1752968038.472253,
             "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
             "src_fps": 30.0,
             "ocr_texts": [
-                "(pFR4L3Z"
+                "(pFR4132"
             ]
         }
     },
     {
         "meta": {
             "id": 30,
-            "ts": 1752965863.313974,
+            "ts": 1752968038.638929,
             "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
             "src_fps": 30.0,
             "ocr_texts": [
@@ -343,7 +343,7 @@
     {
         "meta": {
             "id": 31,
-            "ts": 1752965863.509609,
+            "ts": 1752968038.772254,
             "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
             "src_fps": 30.0,
             "ocr_texts": [
@@ -354,7 +354,7 @@
     {
         "meta": {
             "id": 32,
-            "ts": 1752965863.681154,
+            "ts": 1752968038.905587,
             "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
             "src_fps": 30.0,
             "ocr_texts": [
@@ -365,7 +365,7 @@
     {
         "meta": {
             "id": 33,
-            "ts": 1752965863.812713,
+            "ts": 1752968039.138708,
             "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
             "src_fps": 30.0,
             "ocr_texts": [
@@ -376,84 +376,84 @@
     {
         "meta": {
             "id": 34,
-            "ts": 1752965863.980401,
+            "ts": 1752968039.334689,
             "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
             "src_fps": 30.0,
             "ocr_texts": [
-                "(pFR4132"
+                "(BFR4L3Z"
             ]
         }
     },
     {
         "meta": {
             "id": 35,
-            "ts": 1752965864.114507,
+            "ts": 1752968039.472264,
             "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
             "src_fps": 30.0,
             "ocr_texts": [
-                "(pFR4132"
+                "(BFR4L32"
             ]
         }
     },
     {
         "meta": {
             "id": 36,
-            "ts": 1752965864.276401,
+            "ts": 1752968039.636403,
             "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
             "src_fps": 30.0,
             "ocr_texts": [
-                "(BFR4L3Z"
+                "(BFR4L32"
             ]
         }
     },
     {
         "meta": {
             "id": 37,
-            "ts": 1752965864.414488,
+            "ts": 1752968039.805595,
             "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
             "src_fps": 30.0,
             "ocr_texts": [
-                "(BFR4L3Z"
+                "(BFR4L32"
             ]
         }
     },
     {
         "meta": {
             "id": 38,
-            "ts": 1752965864.579396,
+            "ts": 1752968039.938939,
             "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
             "src_fps": 30.0,
             "ocr_texts": [
-                "(BFR4L3Z"
+                "(BFR4L32"
             ]
         }
     },
     {
         "meta": {
             "id": 39,
-            "ts": 1752965864.714493,
+            "ts": 1752968040.101011,
             "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
             "src_fps": 30.0,
             "ocr_texts": [
-                "(BFR4L32"
+                "(pFR4L3Z"
             ]
         }
     },
     {
         "meta": {
             "id": 40,
-            "ts": 1752965864.878528,
+            "ts": 1752968040.23422,
             "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
             "src_fps": 30.0,
             "ocr_texts": [
-                "(BFR4L32"
+                "(pFR4L3Z"
             ]
         }
     },
     {
         "meta": {
             "id": 41,
-            "ts": 1752965865.043548,
+            "ts": 1752968040.405586,
             "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
             "src_fps": 30.0,
             "ocr_texts": [
@@ -464,7 +464,7 @@
     {
         "meta": {
             "id": 42,
-            "ts": 1752965865.178049,
+            "ts": 1752968040.569455,
             "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
             "src_fps": 30.0,
             "ocr_texts": [
@@ -475,18 +475,18 @@
     {
         "meta": {
             "id": 43,
-            "ts": 1752965865.314501,
+            "ts": 1752968040.735127,
             "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
             "src_fps": 30.0,
             "ocr_texts": [
-                "(pFR4L3Z"
+                "(pFR4L3Z]"
             ]
         }
     },
     {
         "meta": {
             "id": 44,
-            "ts": 1752965865.481156,
+            "ts": 1752968040.86756,
             "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
             "src_fps": 30.0,
             "ocr_texts": [
@@ -497,40 +497,40 @@
     {
         "meta": {
             "id": 45,
-            "ts": 1752965865.647819,
+            "ts": 1752968041.037229,
             "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
             "src_fps": 30.0,
             "ocr_texts": [
-                "(pFR4L3Z]"
+                "(pFR4132"
             ]
         }
     },
     {
         "meta": {
             "id": 46,
-            "ts": 1752965865.78072,
+            "ts": 1752968041.205011,
             "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
             "src_fps": 30.0,
             "ocr_texts": [
-                "(pFR4L3Z]"
+                "(pFR4L3Z"
             ]
         }
     },
     {
         "meta": {
             "id": 47,
-            "ts": 1752965865.946555,
+            "ts": 1752968041.338932,
             "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
             "src_fps": 30.0,
             "ocr_texts": [
-                "(BFR4L3Z"
+                "(pFR4132"
             ]
         }
     },
     {
         "meta": {
             "id": 48,
-            "ts": 1752965866.080237,
+            "ts": 1752968041.504053,
             "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
             "src_fps": 30.0,
             "ocr_texts": [
@@ -541,7 +541,7 @@
     {
         "meta": {
             "id": 49,
-            "ts": 1752965866.21448,
+            "ts": 1752968041.672114,
             "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
             "src_fps": 30.0,
             "ocr_texts": [
@@ -552,51 +552,51 @@
     {
         "meta": {
             "id": 50,
-            "ts": 1752965866.380609,
+            "ts": 1752968041.837876,
             "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
             "src_fps": 30.0,
             "ocr_texts": [
-                "(pFR4L3Z"
+                "(pFR4132"
             ]
         }
     },
     {
         "meta": {
             "id": 51,
-            "ts": 1752965866.514483,
+            "ts": 1752968041.972268,
             "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
             "src_fps": 30.0,
             "ocr_texts": [
-                "(pFR4132"
+                "(pFR4L32"
             ]
         }
     },
     {
         "meta": {
             "id": 52,
-            "ts": 1752965866.647826,
+            "ts": 1752968042.135486,
             "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
             "src_fps": 30.0,
             "ocr_texts": [
-                "(pFR4L3Z"
+                "(pFR4L32"
             ]
         }
     },
     {
         "meta": {
             "id": 53,
-            "ts": 1752965866.814481,
+            "ts": 1752968042.304754,
             "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
             "src_fps": 30.0,
             "ocr_texts": [
-                "(pFR4132"
+                "(pFR4L32"
             ]
         }
     },
     {
         "meta": {
             "id": 54,
-            "ts": 1752965866.947823,
+            "ts": 1752968042.47227,
             "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
             "src_fps": 30.0,
             "ocr_texts": [
@@ -607,7 +607,7 @@
     {
         "meta": {
             "id": 55,
-            "ts": 1752965867.081152,
+            "ts": 1752968042.60559,
             "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
             "src_fps": 30.0,
             "ocr_texts": [
@@ -618,62 +618,18 @@
     {
         "meta": {
             "id": 56,
-            "ts": 1752965867.247806,
+            "ts": 1752968042.772242,
             "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
             "src_fps": 30.0,
             "ocr_texts": [
-                "(pFR4L32"
+                "(pFR4732"
             ]
         }
     },
     {
         "meta": {
             "id": 57,
-            "ts": 1752965867.381075,
-            "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
-            "src_fps": 30.0,
-            "ocr_texts": [
-                "(pFR4L32"
-            ]
-        }
-    },
-    {
-        "meta": {
-            "id": 58,
-            "ts": 1752965867.514485,
-            "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
-            "src_fps": 30.0,
-            "ocr_texts": [
-                "(pFR4L32"
-            ]
-        }
-    },
-    {
-        "meta": {
-            "id": 59,
-            "ts": 1752965867.68114,
-            "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
-            "src_fps": 30.0,
-            "ocr_texts": [
-                "(pFR4Z32"
-            ]
-        }
-    },
-    {
-        "meta": {
-            "id": 60,
-            "ts": 1752965867.814487,
-            "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
-            "src_fps": 30.0,
-            "ocr_texts": [
-                "(pFR4L3Z"
-            ]
-        }
-    },
-    {
-        "meta": {
-            "id": 61,
-            "ts": 1752965867.981137,
+            "ts": 1752968042.905591,
             "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
             "src_fps": 30.0,
             "ocr_texts": [
@@ -683,8 +639,117 @@
     },
     {
         "meta": {
+            "id": 58,
+            "ts": 1752968043.072026,
+            "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
+            "src_fps": 30.0,
+            "ocr_texts": [
+                "(pFR4Z32"
+            ]
+        }
+    },
+    {
+        "meta": {
+            "id": 59,
+            "ts": 1752968043.20477,
+            "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
+            "src_fps": 30.0,
+            "ocr_texts": [
+                "(pFR4132"
+            ]
+        }
+    },
+    {
+        "meta": {
+            "id": 60,
+            "ts": 1752968043.37075,
+            "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
+            "src_fps": 30.0,
+            "ocr_texts": [
+                "BFRAT"
+            ]
+        }
+    },
+    {
+        "meta": {
+            "id": 61,
+            "ts": 1752968043.505574,
+            "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
+            "src_fps": 30.0,
+            "ocr_texts": []
+        }
+    },
+    {
+        "meta": {
             "id": 62,
-            "ts": 1752965868.11449,
+            "ts": 1752968043.669063,
+            "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
+            "src_fps": 30.0,
+            "ocr_texts": []
+        }
+    },
+    {
+        "meta": {
+            "id": 63,
+            "ts": 1752968043.869934,
+            "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
+            "src_fps": 30.0,
+            "ocr_texts": []
+        }
+    },
+    {
+        "meta": {
+            "id": 64,
+            "ts": 1752968044.00507,
+            "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
+            "src_fps": 30.0,
+            "ocr_texts": []
+        }
+    },
+    {
+        "meta": {
+            "id": 65,
+            "ts": 1752968044.171893,
+            "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
+            "src_fps": 30.0,
+            "ocr_texts": []
+        }
+    },
+    {
+        "meta": {
+            "id": 66,
+            "ts": 1752968044.30138,
+            "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
+            "src_fps": 30.0,
+            "ocr_texts": []
+        }
+    },
+    {
+        "meta": {
+            "id": 67,
+            "ts": 1752968044.472238,
+            "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
+            "src_fps": 30.0,
+            "ocr_texts": [
+                "(pFR4L32"
+            ]
+        }
+    },
+    {
+        "meta": {
+            "id": 68,
+            "ts": 1752968044.637694,
+            "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
+            "src_fps": 30.0,
+            "ocr_texts": [
+                "(pFR4132"
+            ]
+        }
+    },
+    {
+        "meta": {
+            "id": 69,
+            "ts": 1752968044.768313,
             "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
             "src_fps": 30.0,
             "ocr_texts": [
@@ -694,93 +759,30 @@
     },
     {
         "meta": {
-            "id": 63,
-            "ts": 1752965868.280928,
+            "id": 70,
+            "ts": 1752968044.938906,
             "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
             "src_fps": 30.0,
             "ocr_texts": [
-                "DFR4232|"
+                "(pFR4Z32"
             ]
         }
     },
     {
         "meta": {
-            "id": 64,
-            "ts": 1752965868.447827,
-            "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
-            "src_fps": 30.0,
-            "ocr_texts": []
-        }
-    },
-    {
-        "meta": {
-            "id": 65,
-            "ts": 1752965868.581149,
-            "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
-            "src_fps": 30.0,
-            "ocr_texts": []
-        }
-    },
-    {
-        "meta": {
-            "id": 66,
-            "ts": 1752965868.747814,
-            "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
-            "src_fps": 30.0,
-            "ocr_texts": []
-        }
-    },
-    {
-        "meta": {
-            "id": 67,
-            "ts": 1752965868.876311,
-            "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
-            "src_fps": 30.0,
-            "ocr_texts": []
-        }
-    },
-    {
-        "meta": {
-            "id": 68,
-            "ts": 1752965869.014502,
-            "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
-            "src_fps": 30.0,
-            "ocr_texts": []
-        }
-    },
-    {
-        "meta": {
-            "id": 69,
-            "ts": 1752965869.147075,
-            "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
-            "src_fps": 30.0,
-            "ocr_texts": []
-        }
-    },
-    {
-        "meta": {
-            "id": 70,
-            "ts": 1752965869.281153,
-            "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
-            "src_fps": 30.0,
-            "ocr_texts": []
-        }
-    },
-    {
-        "meta": {
             "id": 71,
-            "ts": 1752965869.414492,
+            "ts": 1752968045.103708,
             "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
             "src_fps": 30.0,
             "ocr_texts": [
-                "DFR4732"
+                "(pFR4L32"
             ]
         }
     },
     {
         "meta": {
             "id": 72,
-            "ts": 1752965869.547816,
+            "ts": 1752968045.269976,
             "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
             "src_fps": 30.0,
             "ocr_texts": [
@@ -791,95 +793,51 @@
     {
         "meta": {
             "id": 73,
-            "ts": 1752965869.681132,
+            "ts": 1752968045.405587,
             "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
             "src_fps": 30.0,
             "ocr_texts": [
-                "(pFR4132"
+                "(bFR4732"
             ]
         }
     },
     {
         "meta": {
             "id": 74,
-            "ts": 1752965869.845121,
+            "ts": 1752968045.57223,
             "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
             "src_fps": 30.0,
             "ocr_texts": [
-                "(pFR4L3Z"
+                "(pFR4L3Z]"
             ]
         }
     },
     {
         "meta": {
             "id": 75,
-            "ts": 1752965869.981136,
+            "ts": 1752968045.734408,
             "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
             "src_fps": 30.0,
             "ocr_texts": [
-                "(pFR4Z32"
+                "(pFR4L32"
             ]
         }
     },
     {
         "meta": {
             "id": 76,
-            "ts": 1752965870.147842,
+            "ts": 1752968045.871697,
             "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
             "src_fps": 30.0,
             "ocr_texts": [
-                "(pFR4L3Z"
+                "(pFR4732"
             ]
         }
     },
     {
         "meta": {
             "id": 77,
-            "ts": 1752965870.313734,
-            "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
-            "src_fps": 30.0,
-            "ocr_texts": [
-                "(pFR4Z32"
-            ]
-        }
-    },
-    {
-        "meta": {
-            "id": 78,
-            "ts": 1752965870.481142,
-            "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
-            "src_fps": 30.0,
-            "ocr_texts": [
-                "(pFR4Z3Z"
-            ]
-        }
-    },
-    {
-        "meta": {
-            "id": 79,
-            "ts": 1752965870.614367,
-            "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
-            "src_fps": 30.0,
-            "ocr_texts": [
-                "(pFR4732"
-            ]
-        }
-    },
-    {
-        "meta": {
-            "id": 80,
-            "ts": 1752965870.781137,
-            "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
-            "src_fps": 30.0,
-            "ocr_texts": [
-                "(pFR4732"
-            ]
-        }
-    },
-    {
-        "meta": {
-            "id": 81,
-            "ts": 1752965870.914479,
+            "ts": 1752968046.005574,
             "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
             "src_fps": 30.0,
             "ocr_texts": [
@@ -889,8 +847,19 @@
     },
     {
         "meta": {
-            "id": 82,
-            "ts": 1752965871.081132,
+            "id": 78,
+            "ts": 1752968046.171516,
+            "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
+            "src_fps": 30.0,
+            "ocr_texts": [
+                "(pFR4132"
+            ]
+        }
+    },
+    {
+        "meta": {
+            "id": 79,
+            "ts": 1752968046.302067,
             "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
             "src_fps": 30.0,
             "ocr_texts": [
@@ -900,30 +869,52 @@
     },
     {
         "meta": {
-            "id": 83,
-            "ts": 1752965871.214469,
+            "id": 80,
+            "ts": 1752968046.472238,
             "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
             "src_fps": 30.0,
             "ocr_texts": [
                 "(pFR4132"
+            ]
+        }
+    },
+    {
+        "meta": {
+            "id": 81,
+            "ts": 1752968046.605566,
+            "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
+            "src_fps": 30.0,
+            "ocr_texts": [
+                "(pFR4132"
+            ]
+        }
+    },
+    {
+        "meta": {
+            "id": 82,
+            "ts": 1752968046.77223,
+            "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
+            "src_fps": 30.0,
+            "ocr_texts": [
+                "(bFR4132"
+            ]
+        }
+    },
+    {
+        "meta": {
+            "id": 83,
+            "ts": 1752968046.935465,
+            "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
+            "src_fps": 30.0,
+            "ocr_texts": [
+                "(pFR4Z32"
             ]
         }
     },
     {
         "meta": {
             "id": 84,
-            "ts": 1752965871.347803,
-            "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
-            "src_fps": 30.0,
-            "ocr_texts": [
-                "(pFR4L32"
-            ]
-        }
-    },
-    {
-        "meta": {
-            "id": 85,
-            "ts": 1752965871.51404,
+            "ts": 1752968047.105484,
             "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
             "src_fps": 30.0,
             "ocr_texts": [
@@ -933,19 +924,30 @@
     },
     {
         "meta": {
-            "id": 86,
-            "ts": 1752965871.647071,
+            "id": 85,
+            "ts": 1752968047.237028,
             "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
             "src_fps": 30.0,
             "ocr_texts": [
-                "(pFR4L32"
+                "(bFR4732"
+            ]
+        }
+    },
+    {
+        "meta": {
+            "id": 86,
+            "ts": 1752968047.405477,
+            "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
+            "src_fps": 30.0,
+            "ocr_texts": [
+                "(bFR4132"
             ]
         }
     },
     {
         "meta": {
             "id": 87,
-            "ts": 1752965871.814467,
+            "ts": 1752968047.571229,
             "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
             "src_fps": 30.0,
             "ocr_texts": [
@@ -956,7 +958,7 @@
     {
         "meta": {
             "id": 88,
-            "ts": 1752965871.947798,
+            "ts": 1752968047.705583,
             "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
             "src_fps": 30.0,
             "ocr_texts": [
@@ -967,18 +969,18 @@
     {
         "meta": {
             "id": 89,
-            "ts": 1752965872.114466,
+            "ts": 1752968047.838907,
             "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
             "src_fps": 30.0,
             "ocr_texts": [
-                "(bFR4732"
+                "(pFR4132"
             ]
         }
     },
     {
         "meta": {
             "id": 90,
-            "ts": 1752965872.2478,
+            "ts": 1752968048.005571,
             "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
             "src_fps": 30.0,
             "ocr_texts": [
@@ -989,7 +991,7 @@
     {
         "meta": {
             "id": 91,
-            "ts": 1752965872.38114,
+            "ts": 1752968048.138898,
             "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
             "src_fps": 30.0,
             "ocr_texts": [
@@ -1000,62 +1002,7 @@
     {
         "meta": {
             "id": 92,
-            "ts": 1752965872.514457,
-            "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
-            "src_fps": 30.0,
-            "ocr_texts": [
-                "(bFR4132"
-            ]
-        }
-    },
-    {
-        "meta": {
-            "id": 93,
-            "ts": 1752965872.681129,
-            "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
-            "src_fps": 30.0,
-            "ocr_texts": [
-                "(pFR4132"
-            ]
-        }
-    },
-    {
-        "meta": {
-            "id": 94,
-            "ts": 1752965872.810052,
-            "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
-            "src_fps": 30.0,
-            "ocr_texts": [
-                "(pFR4132"
-            ]
-        }
-    },
-    {
-        "meta": {
-            "id": 95,
-            "ts": 1752965872.947806,
-            "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
-            "src_fps": 30.0,
-            "ocr_texts": [
-                "(bFR4132"
-            ]
-        }
-    },
-    {
-        "meta": {
-            "id": 96,
-            "ts": 1752965873.081126,
-            "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
-            "src_fps": 30.0,
-            "ocr_texts": [
-                "(bFR4132"
-            ]
-        }
-    },
-    {
-        "meta": {
-            "id": 97,
-            "ts": 1752965873.247402,
+            "ts": 1752968048.303668,
             "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
             "src_fps": 30.0,
             "ocr_texts": [
@@ -1065,19 +1012,8 @@
     },
     {
         "meta": {
-            "id": 98,
-            "ts": 1752965873.380711,
-            "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
-            "src_fps": 30.0,
-            "ocr_texts": [
-                "(FR4132"
-            ]
-        }
-    },
-    {
-        "meta": {
-            "id": 99,
-            "ts": 1752965873.547213,
+            "id": 93,
+            "ts": 1752968048.438902,
             "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
             "src_fps": 30.0,
             "ocr_texts": [
@@ -1087,8 +1023,8 @@
     },
     {
         "meta": {
-            "id": 100,
-            "ts": 1752965873.681127,
+            "id": 94,
+            "ts": 1752968048.601371,
             "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
             "src_fps": 30.0,
             "ocr_texts": [
@@ -1098,30 +1034,19 @@
     },
     {
         "meta": {
-            "id": 101,
-            "ts": 1752965873.84706,
+            "id": 95,
+            "ts": 1752968048.738902,
             "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
             "src_fps": 30.0,
             "ocr_texts": [
-                "(BFR4L3Z]"
+                "(bFR4732"
             ]
         }
     },
     {
         "meta": {
-            "id": 102,
-            "ts": 1752965873.98113,
-            "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
-            "src_fps": 30.0,
-            "ocr_texts": [
-                "(pFR4L3Z"
-            ]
-        }
-    },
-    {
-        "meta": {
-            "id": 103,
-            "ts": 1752965874.114462,
+            "id": 96,
+            "ts": 1752968048.901028,
             "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
             "src_fps": 30.0,
             "ocr_texts": [
@@ -1131,8 +1056,30 @@
     },
     {
         "meta": {
-            "id": 104,
-            "ts": 1752965874.27909,
+            "id": 97,
+            "ts": 1752968049.038895,
+            "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
+            "src_fps": 30.0,
+            "ocr_texts": [
+                "(pFR4L3Z"
+            ]
+        }
+    },
+    {
+        "meta": {
+            "id": 98,
+            "ts": 1752968049.172244,
+            "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
+            "src_fps": 30.0,
+            "ocr_texts": [
+                "(pFR4L3Z]"
+            ]
+        }
+    },
+    {
+        "meta": {
+            "id": 99,
+            "ts": 1752968049.334594,
             "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
             "src_fps": 30.0,
             "ocr_texts": [
@@ -1142,19 +1089,19 @@
     },
     {
         "meta": {
-            "id": 105,
-            "ts": 1752965874.412631,
+            "id": 100,
+            "ts": 1752968049.47224,
             "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
             "src_fps": 30.0,
             "ocr_texts": [
-                "(bFR4132"
+                "(bFR4Z32]"
             ]
         }
     },
     {
         "meta": {
-            "id": 106,
-            "ts": 1752965874.547798,
+            "id": 101,
+            "ts": 1752968049.63867,
             "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
             "src_fps": 30.0,
             "ocr_texts": [
@@ -1164,19 +1111,8 @@
     },
     {
         "meta": {
-            "id": 107,
-            "ts": 1752965874.714464,
-            "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
-            "src_fps": 30.0,
-            "ocr_texts": [
-                "(BFR4Z32]"
-            ]
-        }
-    },
-    {
-        "meta": {
-            "id": 108,
-            "ts": 1752965874.8478,
+            "id": 102,
+            "ts": 1752968049.772237,
             "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
             "src_fps": 30.0,
             "ocr_texts": [
@@ -1186,19 +1122,8 @@
     },
     {
         "meta": {
-            "id": 109,
-            "ts": 1752965874.981146,
-            "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
-            "src_fps": 30.0,
-            "ocr_texts": [
-                "(BFR4Z3Z"
-            ]
-        }
-    },
-    {
-        "meta": {
-            "id": 110,
-            "ts": 1752965875.147795,
+            "id": 103,
+            "ts": 1752968049.905565,
             "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
             "src_fps": 30.0,
             "ocr_texts": [
@@ -1208,349 +1133,8 @@
     },
     {
         "meta": {
-            "id": 111,
-            "ts": 1752965875.281147,
-            "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
-            "src_fps": 30.0,
-            "ocr_texts": [
-                "{DFR4L3Z"
-            ]
-        }
-    },
-    {
-        "meta": {
-            "id": 112,
-            "ts": 1752965875.447793,
-            "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
-            "src_fps": 30.0,
-            "ocr_texts": [
-                "0FR4732|"
-            ]
-        }
-    },
-    {
-        "meta": {
-            "id": 113,
-            "ts": 1752965875.581132,
-            "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
-            "src_fps": 30.0,
-            "ocr_texts": [
-                "Tbfr4732"
-            ]
-        }
-    },
-    {
-        "meta": {
-            "id": 114,
-            "ts": 1752965875.747812,
-            "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
-            "src_fps": 30.0,
-            "ocr_texts": [
-                "Jufr4722"
-            ]
-        }
-    },
-    {
-        "meta": {
-            "id": 115,
-            "ts": 1752965875.88113,
-            "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
-            "src_fps": 30.0,
-            "ocr_texts": [
-                "Jufr4732"
-            ]
-        }
-    },
-    {
-        "meta": {
-            "id": 116,
-            "ts": 1752965876.01445,
-            "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
-            "src_fps": 30.0,
-            "ocr_texts": [
-                "(pFr4732"
-            ]
-        }
-    },
-    {
-        "meta": {
-            "id": 117,
-            "ts": 1752965876.176997,
-            "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
-            "src_fps": 30.0,
-            "ocr_texts": [
-                "(@fR4732"
-            ]
-        }
-    },
-    {
-        "meta": {
-            "id": 118,
-            "ts": 1752965876.314463,
-            "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
-            "src_fps": 30.0,
-            "ocr_texts": [
-                "(dFR4732"
-            ]
-        }
-    },
-    {
-        "meta": {
-            "id": 119,
-            "ts": 1752965876.447782,
-            "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
-            "src_fps": 30.0,
-            "ocr_texts": [
-                "DFR4732"
-            ]
-        }
-    },
-    {
-        "meta": {
-            "id": 120,
-            "ts": 1752965876.614456,
-            "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
-            "src_fps": 30.0,
-            "ocr_texts": [
-                "DFR4732"
-            ]
-        }
-    },
-    {
-        "meta": {
-            "id": 121,
-            "ts": 1752965876.747788,
-            "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
-            "src_fps": 30.0,
-            "ocr_texts": [
-                "DFR4732"
-            ]
-        }
-    },
-    {
-        "meta": {
-            "id": 122,
-            "ts": 1752965876.878328,
-            "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
-            "src_fps": 30.0,
-            "ocr_texts": [
-                "DFR4732}"
-            ]
-        }
-    },
-    {
-        "meta": {
-            "id": 123,
-            "ts": 1752965877.047468,
-            "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
-            "src_fps": 30.0,
-            "ocr_texts": [
-                "DFR4732}"
-            ]
-        }
-    },
-    {
-        "meta": {
-            "id": 124,
-            "ts": 1752965877.181123,
-            "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
-            "src_fps": 30.0,
-            "ocr_texts": [
-                "DFR4732}"
-            ]
-        }
-    },
-    {
-        "meta": {
-            "id": 125,
-            "ts": 1752965877.31447,
-            "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
-            "src_fps": 30.0,
-            "ocr_texts": [
-                "bfR4732]"
-            ]
-        }
-    },
-    {
-        "meta": {
-            "id": 126,
-            "ts": 1752965877.447792,
-            "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
-            "src_fps": 30.0,
-            "ocr_texts": [
-                "@FR4732"
-            ]
-        }
-    },
-    {
-        "meta": {
-            "id": 127,
-            "ts": 1752965877.614462,
-            "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
-            "src_fps": 30.0,
-            "ocr_texts": [
-                "@FR4732"
-            ]
-        }
-    },
-    {
-        "meta": {
-            "id": 128,
-            "ts": 1752965877.746999,
-            "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
-            "src_fps": 30.0,
-            "ocr_texts": [
-                "DFR4732]"
-            ]
-        }
-    },
-    {
-        "meta": {
-            "id": 129,
-            "ts": 1752965877.914453,
-            "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
-            "src_fps": 30.0,
-            "ocr_texts": [
-                "Tof R4732"
-            ]
-        }
-    },
-    {
-        "meta": {
-            "id": 130,
-            "ts": 1752965878.044816,
-            "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
-            "src_fps": 30.0,
-            "ocr_texts": [
-                "DFR4732 "
-            ]
-        }
-    },
-    {
-        "meta": {
-            "id": 131,
-            "ts": 1752965878.180346,
-            "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
-            "src_fps": 30.0,
-            "ocr_texts": [
-                "DFR4732 "
-            ]
-        }
-    },
-    {
-        "meta": {
-            "id": 132,
-            "ts": 1752965878.347785,
-            "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
-            "src_fps": 30.0,
-            "ocr_texts": [
-                "DFR4232 |"
-            ]
-        }
-    },
-    {
-        "meta": {
-            "id": 133,
-            "ts": 1752965878.547005,
-            "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
-            "src_fps": 30.0,
-            "ocr_texts": [
-                "DFR4232 |"
-            ]
-        }
-    },
-    {
-        "meta": {
-            "id": 134,
-            "ts": 1752965878.676703,
-            "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
-            "src_fps": 30.0,
-            "ocr_texts": [
-                "DFR4732"
-            ]
-        }
-    },
-    {
-        "meta": {
-            "id": 135,
-            "ts": 1752965878.813159,
-            "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
-            "src_fps": 30.0,
-            "ocr_texts": [
-                "DFR4732|"
-            ]
-        }
-    },
-    {
-        "meta": {
-            "id": 136,
-            "ts": 1752965878.978524,
-            "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
-            "src_fps": 30.0,
-            "ocr_texts": [
-                "0FR4732 "
-            ]
-        }
-    },
-    {
-        "meta": {
-            "id": 137,
-            "ts": 1752965879.114459,
-            "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
-            "src_fps": 30.0,
-            "ocr_texts": [
-                "DFR4732|"
-            ]
-        }
-    },
-    {
-        "meta": {
-            "id": 138,
-            "ts": 1752965879.247374,
-            "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
-            "src_fps": 30.0,
-            "ocr_texts": [
-                "(pfr4732"
-            ]
-        }
-    },
-    {
-        "meta": {
-            "id": 139,
-            "ts": 1752965879.414445,
-            "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
-            "src_fps": 30.0,
-            "ocr_texts": [
-                "DER4732"
-            ]
-        }
-    },
-    {
-        "meta": {
-            "id": 140,
-            "ts": 1752965879.547786,
-            "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
-            "src_fps": 30.0,
-            "ocr_texts": [
-                "@FR4732 |"
-            ]
-        }
-    },
-    {
-        "meta": {
-            "id": 141,
-            "ts": 1752965879.678854,
-            "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
-            "src_fps": 30.0,
-            "ocr_texts": [
-                "FoFR4732"
-            ]
-        }
-    },
-    {
-        "meta": {
-            "id": 142,
-            "ts": 1752965879.847775,
+            "id": 104,
+            "ts": 1752968050.068565,
             "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
             "src_fps": 30.0,
             "ocr_texts": [
@@ -1560,107 +1144,459 @@
     },
     {
         "meta": {
-            "id": 143,
-            "ts": 1752965879.978051,
+            "id": 105,
+            "ts": 1752968050.201436,
             "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
             "src_fps": 30.0,
             "ocr_texts": [
-                "(@FR4732"
+                "(pFR4732"
+            ]
+        }
+    },
+    {
+        "meta": {
+            "id": 106,
+            "ts": 1752968050.367717,
+            "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
+            "src_fps": 30.0,
+            "ocr_texts": [
+                "{DFR4732"
+            ]
+        }
+    },
+    {
+        "meta": {
+            "id": 107,
+            "ts": 1752968050.505569,
+            "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
+            "src_fps": 30.0,
+            "ocr_texts": [
+                "Fufr4z32"
+            ]
+        }
+    },
+    {
+        "meta": {
+            "id": 108,
+            "ts": 1752968050.670791,
+            "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
+            "src_fps": 30.0,
+            "ocr_texts": [
+                "Tufr4732}"
+            ]
+        }
+    },
+    {
+        "meta": {
+            "id": 109,
+            "ts": 1752968050.800878,
+            "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
+            "src_fps": 30.0,
+            "ocr_texts": [
+                "Jufr4732"
+            ]
+        }
+    },
+    {
+        "meta": {
+            "id": 110,
+            "ts": 1752968050.938904,
+            "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
+            "src_fps": 30.0,
+            "ocr_texts": [
+                "FufR4732]"
+            ]
+        }
+    },
+    {
+        "meta": {
+            "id": 111,
+            "ts": 1752968051.105567,
+            "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
+            "src_fps": 30.0,
+            "ocr_texts": [
+                "FufR4732]"
+            ]
+        }
+    },
+    {
+        "meta": {
+            "id": 112,
+            "ts": 1752968051.234352,
+            "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
+            "src_fps": 30.0,
+            "ocr_texts": [
+                "(pfr4732"
+            ]
+        }
+    },
+    {
+        "meta": {
+            "id": 113,
+            "ts": 1752968051.403008,
+            "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
+            "src_fps": 30.0,
+            "ocr_texts": [
+                "DFR4732"
+            ]
+        }
+    },
+    {
+        "meta": {
+            "id": 114,
+            "ts": 1752968051.535705,
+            "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
+            "src_fps": 30.0,
+            "ocr_texts": [
+                "DFR4732"
+            ]
+        }
+    },
+    {
+        "meta": {
+            "id": 115,
+            "ts": 1752968051.701235,
+            "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
+            "src_fps": 30.0,
+            "ocr_texts": [
+                "DFR4732"
+            ]
+        }
+    },
+    {
+        "meta": {
+            "id": 116,
+            "ts": 1752968051.834651,
+            "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
+            "src_fps": 30.0,
+            "ocr_texts": [
+                "DFR4732"
+            ]
+        }
+    },
+    {
+        "meta": {
+            "id": 117,
+            "ts": 1752968052.001719,
+            "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
+            "src_fps": 30.0,
+            "ocr_texts": [
+                "DFR4732]"
+            ]
+        }
+    },
+    {
+        "meta": {
+            "id": 118,
+            "ts": 1752968052.136878,
+            "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
+            "src_fps": 30.0,
+            "ocr_texts": [
+                "DFR4732}"
+            ]
+        }
+    },
+    {
+        "meta": {
+            "id": 119,
+            "ts": 1752968052.27223,
+            "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
+            "src_fps": 30.0,
+            "ocr_texts": [
+                "DFR4232|"
+            ]
+        }
+    },
+    {
+        "meta": {
+            "id": 120,
+            "ts": 1752968052.405555,
+            "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
+            "src_fps": 30.0,
+            "ocr_texts": [
+                "bfR4732]"
+            ]
+        }
+    },
+    {
+        "meta": {
+            "id": 121,
+            "ts": 1752968052.572218,
+            "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
+            "src_fps": 30.0,
+            "ocr_texts": [
+                "@FR4732"
+            ]
+        }
+    },
+    {
+        "meta": {
+            "id": 122,
+            "ts": 1752968052.703478,
+            "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
+            "src_fps": 30.0,
+            "ocr_texts": [
+                "bfR4732]"
+            ]
+        }
+    },
+    {
+        "meta": {
+            "id": 123,
+            "ts": 1752968052.869426,
+            "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
+            "src_fps": 30.0,
+            "ocr_texts": [
+                "DFR4732 "
+            ]
+        }
+    },
+    {
+        "meta": {
+            "id": 124,
+            "ts": 1752968053.002044,
+            "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
+            "src_fps": 30.0,
+            "ocr_texts": [
+                "Tof R4732"
+            ]
+        }
+    },
+    {
+        "meta": {
+            "id": 125,
+            "ts": 1752968053.202025,
+            "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
+            "src_fps": 30.0,
+            "ocr_texts": [
+                "DFR4732 "
+            ]
+        }
+    },
+    {
+        "meta": {
+            "id": 126,
+            "ts": 1752968053.335309,
+            "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
+            "src_fps": 30.0,
+            "ocr_texts": [
+                "DFR4232 |"
+            ]
+        }
+    },
+    {
+        "meta": {
+            "id": 127,
+            "ts": 1752968053.503711,
+            "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
+            "src_fps": 30.0,
+            "ocr_texts": [
+                "DFR4232 |"
+            ]
+        }
+    },
+    {
+        "meta": {
+            "id": 128,
+            "ts": 1752968053.638229,
+            "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
+            "src_fps": 30.0,
+            "ocr_texts": [
+                "DFR4232 |"
+            ]
+        }
+    },
+    {
+        "meta": {
+            "id": 129,
+            "ts": 1752968053.772227,
+            "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
+            "src_fps": 30.0,
+            "ocr_texts": [
+                "QFR4232 |"
+            ]
+        }
+    },
+    {
+        "meta": {
+            "id": 130,
+            "ts": 1752968053.938893,
+            "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
+            "src_fps": 30.0,
+            "ocr_texts": [
+                "DFR4732|"
+            ]
+        }
+    },
+    {
+        "meta": {
+            "id": 131,
+            "ts": 1752968054.072218,
+            "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
+            "src_fps": 30.0,
+            "ocr_texts": [
+                "(BFR4732"
+            ]
+        }
+    },
+    {
+        "meta": {
+            "id": 132,
+            "ts": 1752968054.202393,
+            "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
+            "src_fps": 30.0,
+            "ocr_texts": [
+                "QFR4732 |"
+            ]
+        }
+    },
+    {
+        "meta": {
+            "id": 133,
+            "ts": 1752968054.369137,
+            "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
+            "src_fps": 30.0,
+            "ocr_texts": [
+                "Fofr4732"
+            ]
+        }
+    },
+    {
+        "meta": {
+            "id": 134,
+            "ts": 1752968054.501058,
+            "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
+            "src_fps": 30.0,
+            "ocr_texts": [
+                "(ufr4732"
+            ]
+        }
+    },
+    {
+        "meta": {
+            "id": 135,
+            "ts": 1752968054.672211,
+            "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
+            "src_fps": 30.0,
+            "ocr_texts": [
+                "Fof R4732"
+            ]
+        }
+    },
+    {
+        "meta": {
+            "id": 136,
+            "ts": 1752968054.805551,
+            "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
+            "src_fps": 30.0,
+            "ocr_texts": [
+                "(bfR4732"
+            ]
+        }
+    },
+    {
+        "meta": {
+            "id": 137,
+            "ts": 1752968054.97221,
+            "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
+            "src_fps": 30.0,
+            "ocr_texts": [
+                "DBFR4732"
+            ]
+        }
+    },
+    {
+        "meta": {
+            "id": 138,
+            "ts": 1752968055.101901,
+            "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
+            "src_fps": 30.0,
+            "ocr_texts": [
+                "(DFR4732'"
+            ]
+        }
+    },
+    {
+        "meta": {
+            "id": 139,
+            "ts": 1752968055.270528,
+            "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
+            "src_fps": 30.0,
+            "ocr_texts": [
+                "(BFR4732]"
+            ]
+        }
+    },
+    {
+        "meta": {
+            "id": 140,
+            "ts": 1752968055.402928,
+            "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
+            "src_fps": 30.0,
+            "ocr_texts": [
+                "DFR4732"
+            ]
+        }
+    },
+    {
+        "meta": {
+            "id": 141,
+            "ts": 1752968055.536306,
+            "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
+            "src_fps": 30.0,
+            "ocr_texts": [
+                "DFR4732"
+            ]
+        }
+    },
+    {
+        "meta": {
+            "id": 142,
+            "ts": 1752968055.700611,
+            "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
+            "src_fps": 30.0,
+            "ocr_texts": [
+                "DFR4732"
+            ]
+        }
+    },
+    {
+        "meta": {
+            "id": 143,
+            "ts": 1752968055.838883,
+            "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
+            "src_fps": 30.0,
+            "ocr_texts": [
+                "BFR47325"
             ]
         }
     },
     {
         "meta": {
             "id": 144,
-            "ts": 1752965880.114443,
+            "ts": 1752968055.971279,
             "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
             "src_fps": 30.0,
             "ocr_texts": [
-                "(bFr4732"
+                "(BF R4732"
             ]
         }
     },
     {
         "meta": {
             "id": 145,
-            "ts": 1752965880.280504,
+            "ts": 1752968056.138376,
             "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
             "src_fps": 30.0,
             "ocr_texts": [
-                "(bF R4732"
+                "(BFR4732"
             ]
         }
     },
     {
         "meta": {
             "id": 146,
-            "ts": 1752965880.414449,
-            "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
-            "src_fps": 30.0,
-            "ocr_texts": [
-                "DFR4732"
-            ]
-        }
-    },
-    {
-        "meta": {
-            "id": 147,
-            "ts": 1752965880.547779,
-            "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
-            "src_fps": 30.0,
-            "ocr_texts": [
-                "DFR4732 |"
-            ]
-        }
-    },
-    {
-        "meta": {
-            "id": 148,
-            "ts": 1752965880.714445,
-            "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
-            "src_fps": 30.0,
-            "ocr_texts": [
-                "DFR4732"
-            ]
-        }
-    },
-    {
-        "meta": {
-            "id": 149,
-            "ts": 1752965880.847796,
-            "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
-            "src_fps": 30.0,
-            "ocr_texts": [
-                "OFR4732}"
-            ]
-        }
-    },
-    {
-        "meta": {
-            "id": 150,
-            "ts": 1752965880.981117,
-            "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
-            "src_fps": 30.0,
-            "ocr_texts": [
-                "BFR4732"
-            ]
-        }
-    },
-    {
-        "meta": {
-            "id": 151,
-            "ts": 1752965881.147057,
-            "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
-            "src_fps": 30.0,
-            "ocr_texts": [
-                "BFR4732"
-            ]
-        }
-    },
-    {
-        "meta": {
-            "id": 152,
-            "ts": 1752965881.280399,
+            "ts": 1752968056.300857,
             "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
             "src_fps": 30.0,
             "ocr_texts": [
@@ -1670,8 +1606,8 @@
     },
     {
         "meta": {
-            "id": 153,
-            "ts": 1752965881.447162,
+            "id": 147,
+            "ts": 1752968056.438823,
             "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
             "src_fps": 30.0,
             "ocr_texts": [
@@ -1681,8 +1617,8 @@
     },
     {
         "meta": {
-            "id": 154,
-            "ts": 1752965881.581141,
+            "id": 148,
+            "ts": 1752968056.605544,
             "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
             "src_fps": 30.0,
             "ocr_texts": [
@@ -1692,20 +1628,20 @@
     },
     {
         "meta": {
-            "id": 155,
-            "ts": 1752965881.745513,
+            "id": 149,
+            "ts": 1752968056.736912,
             "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
             "src_fps": 30.0,
             "ocr_texts": [
-                "BFR4732 |",
-                "J"
+                "Mn",
+                "BFR4732]"
             ]
         }
     },
     {
         "meta": {
-            "id": 156,
-            "ts": 1752965881.88111,
+            "id": 150,
+            "ts": 1752968056.902689,
             "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
             "src_fps": 30.0,
             "ocr_texts": [
@@ -1716,8 +1652,8 @@
     },
     {
         "meta": {
-            "id": 157,
-            "ts": 1752965882.014455,
+            "id": 151,
+            "ts": 1752968057.038874,
             "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
             "src_fps": 30.0,
             "ocr_texts": [
@@ -1728,8 +1664,8 @@
     },
     {
         "meta": {
-            "id": 158,
-            "ts": 1752965882.180384,
+            "id": 152,
+            "ts": 1752968057.200925,
             "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
             "src_fps": 30.0,
             "ocr_texts": [
@@ -1739,8 +1675,8 @@
     },
     {
         "meta": {
-            "id": 159,
-            "ts": 1752965882.379059,
+            "id": 153,
+            "ts": 1752968057.405535,
             "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
             "src_fps": 30.0,
             "ocr_texts": [
@@ -1751,20 +1687,20 @@
     },
     {
         "meta": {
-            "id": 160,
-            "ts": 1752965882.547765,
+            "id": 154,
+            "ts": 1752968057.53887,
             "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
             "src_fps": 30.0,
             "ocr_texts": [
-                "#notoh",
-                "BFR4732"
+                "Wasa",
+                "BFR4732 |"
             ]
         }
     },
     {
         "meta": {
-            "id": 161,
-            "ts": 1752965882.676714,
+            "id": 155,
+            "ts": 1752968057.705534,
             "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
             "src_fps": 30.0,
             "ocr_texts": [
@@ -1776,189 +1712,190 @@
     },
     {
         "meta": {
-            "id": 162,
-            "ts": 1752965882.847369,
+            "id": 156,
+            "ts": 1752968057.838891,
             "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
             "src_fps": 30.0,
             "ocr_texts": [
-                "Wa",
                 "BFR4732 |",
-                "Wnuta"
+                "Wauvoioi"
             ]
         }
     },
     {
         "meta": {
-            "id": 163,
-            "ts": 1752965883.013902,
+            "id": 157,
+            "ts": 1752968058.005537,
             "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
             "src_fps": 30.0,
             "ocr_texts": [
+                "TOM",
                 "BFR4732 |",
-                "Maaloi"
+                "Wapim"
             ]
         }
     },
     {
         "meta": {
-            "id": 164,
-            "ts": 1752965883.143976,
-            "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
-            "src_fps": 30.0,
-            "ocr_texts": [
-                "BFR4732 |",
-                "Mahuoion"
-            ]
-        }
-    },
-    {
-        "meta": {
-            "id": 165,
-            "ts": 1752965883.311383,
-            "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
-            "src_fps": 30.0,
-            "ocr_texts": [
-                "BFR4732 |",
-                "Wal 'o1o4"
-            ]
-        }
-    },
-    {
-        "meta": {
-            "id": 166,
-            "ts": 1752965883.546039,
+            "id": 158,
+            "ts": 1752968058.138873,
             "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
             "src_fps": 30.0,
             "ocr_texts": [
                 "BFR4732",
-                "WastuGiOn"
+                "Minutehoie"
             ]
         }
     },
     {
         "meta": {
-            "id": 167,
-            "ts": 1752965883.743558,
+            "id": 159,
+            "ts": 1752968058.405535,
             "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
             "src_fps": 30.0,
             "ocr_texts": [
                 "BFR4732 |",
-                "Warhunoion"
+                "Wagicidon"
             ]
         }
     },
     {
         "meta": {
-            "id": 168,
-            "ts": 1752965883.914456,
+            "id": 160,
+            "ts": 1752968058.538386,
             "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
             "src_fps": 30.0,
             "ocr_texts": [
-                "Washcigtom",
+                "Washiriatom",
                 "BFR4732 |"
             ]
         }
     },
     {
         "meta": {
+            "id": 161,
+            "ts": 1752968058.704427,
+            "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
+            "src_fps": 30.0,
+            "ocr_texts": [
+                "WagicigtOm",
+                "BFR4732 |"
+            ]
+        }
+    },
+    {
+        "meta": {
+            "id": 162,
+            "ts": 1752968058.872201,
+            "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
+            "src_fps": 30.0,
+            "ocr_texts": [
+                "BFR4732 |",
+                "Wnbitnion"
+            ]
+        }
+    },
+    {
+        "meta": {
+            "id": 163,
+            "ts": 1752968059.00553,
+            "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
+            "src_fps": 30.0,
+            "ocr_texts": [
+                "BFR4732 |",
+                "vinatiiot"
+            ]
+        }
+    },
+    {
+        "meta": {
+            "id": 164,
+            "ts": 1752968059.16771,
+            "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
+            "src_fps": 30.0,
+            "ocr_texts": [
+                "BFR4732 |",
+                "MnuOO"
+            ]
+        }
+    },
+    {
+        "meta": {
+            "id": 165,
+            "ts": 1752968059.371125,
+            "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
+            "src_fps": 30.0,
+            "ocr_texts": [
+                "BFT",
+                "Mraimoh",
+                "R4732 '"
+            ]
+        }
+    },
+    {
+        "meta": {
+            "id": 166,
+            "ts": 1752968059.572195,
+            "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
+            "src_fps": 30.0,
+            "ocr_texts": [
+                "Was'urCOM",
+                "BFR4732 "
+            ]
+        }
+    },
+    {
+        "meta": {
+            "id": 167,
+            "ts": 1752968059.73824,
+            "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
+            "src_fps": 30.0,
+            "ocr_texts": [
+                "Wasinotoii",
+                "BFR4732 }"
+            ]
+        }
+    },
+    {
+        "meta": {
+            "id": 168,
+            "ts": 1752968059.904846,
+            "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
+            "src_fps": 30.0,
+            "ocr_texts": [
+                "Wunetunoton",
+                "BFR4732 "
+            ]
+        }
+    },
+    {
+        "meta": {
             "id": 169,
-            "ts": 1752965884.081108,
+            "ts": 1752968060.037063,
             "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
             "src_fps": 30.0,
             "ocr_texts": [
-                "BFR4732 |",
-                "Mauioon"
-            ]
-        }
-    },
-    {
-        "meta": {
-            "id": 170,
-            "ts": 1752965884.214441,
-            "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
-            "src_fps": 30.0,
-            "ocr_texts": [
-                "BFR4732 |",
-                "Miummton"
-            ]
-        }
-    },
-    {
-        "meta": {
-            "id": 171,
-            "ts": 1752965884.381103,
-            "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
-            "src_fps": 30.0,
-            "ocr_texts": [
-                "BFR4732 |",
-                "wayiunuiot"
-            ]
-        }
-    },
-    {
-        "meta": {
-            "id": 172,
-            "ts": 1752965884.581097,
-            "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
-            "src_fps": 30.0,
-            "ocr_texts": [
-                "WASHINGTON",
-                "BFR4732'"
-            ]
-        }
-    },
-    {
-        "meta": {
-            "id": 173,
-            "ts": 1752965884.746039,
-            "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
-            "src_fps": 30.0,
-            "ocr_texts": [
-                "Maghnoton",
-                "BFR4732 "
-            ]
-        }
-    },
-    {
-        "meta": {
-            "id": 174,
-            "ts": 1752965884.914435,
-            "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
-            "src_fps": 30.0,
-            "ocr_texts": [
-                "Masi#hotot",
-                "BFR4732 "
-            ]
-        }
-    },
-    {
-        "meta": {
-            "id": 175,
-            "ts": 1752965885.047788,
-            "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
-            "src_fps": 30.0,
-            "ocr_texts": [
-                "Washmaton",
-                "BFR4732 '"
-            ]
-        }
-    },
-    {
-        "meta": {
-            "id": 176,
-            "ts": 1752965885.214433,
-            "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
-            "src_fps": 30.0,
-            "ocr_texts": [
-                "Masinoton",
+                "Wachatou",
                 "BFR4732"
             ]
         }
     },
     {
         "meta": {
-            "id": 177,
-            "ts": 1752965885.347765,
+            "id": 170,
+            "ts": 1752968060.20554,
+            "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
+            "src_fps": 30.0,
+            "ocr_texts": [
+                "BFR4732 |",
+                "Wachmotot"
+            ]
+        }
+    },
+    {
+        "meta": {
+            "id": 171,
+            "ts": 1752968060.367269,
             "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
             "src_fps": 30.0,
             "ocr_texts": [
@@ -1970,21 +1907,20 @@
     },
     {
         "meta": {
-            "id": 178,
-            "ts": 1752965885.514432,
+            "id": 172,
+            "ts": 1752968060.505254,
             "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
             "src_fps": 30.0,
             "ocr_texts": [
-                "BF",
-                "Washngton",
-                "R4732"
+                "BFR4732",
+                "WashiGTON"
             ]
         }
     },
     {
         "meta": {
-            "id": 179,
-            "ts": 1752965885.647379,
+            "id": 173,
+            "ts": 1752968060.672196,
             "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
             "src_fps": 30.0,
             "ocr_texts": [
@@ -1995,8 +1931,8 @@
     },
     {
         "meta": {
-            "id": 180,
-            "ts": 1752965885.877163,
+            "id": 174,
+            "ts": 1752968060.905536,
             "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
             "src_fps": 30.0,
             "ocr_texts": [
@@ -2007,20 +1943,21 @@
     },
     {
         "meta": {
-            "id": 181,
-            "ts": 1752965886.043849,
+            "id": 175,
+            "ts": 1752968061.038874,
             "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
             "src_fps": 30.0,
             "ocr_texts": [
-                "wasiungton",
-                "BFR4732"
+                "BFT",
+                "Wiashimicton",
+                "R4732"
             ]
         }
     },
     {
         "meta": {
-            "id": 182,
-            "ts": 1752965886.181121,
+            "id": 176,
+            "ts": 1752968061.205523,
             "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
             "src_fps": 30.0,
             "ocr_texts": [
@@ -2032,31 +1969,31 @@
     },
     {
         "meta": {
-            "id": 183,
-            "ts": 1752965886.347769,
+            "id": 177,
+            "ts": 1752968061.33888,
             "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
             "src_fps": 30.0,
             "ocr_texts": [
-                "BFR4722",
-                "WashnGTON"
+                "BFR47?2",
+                "WashiNGTON"
             ]
         }
     },
     {
         "meta": {
-            "id": 184,
-            "ts": 1752965886.511149,
+            "id": 178,
+            "ts": 1752968061.505524,
             "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
             "src_fps": 30.0,
             "ocr_texts": [
-                "Wiashincton"
+                "WiAshinCtoN"
             ]
         }
     },
     {
         "meta": {
-            "id": 185,
-            "ts": 1752965886.647763,
+            "id": 179,
+            "ts": 1752968061.67121,
             "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
             "src_fps": 30.0,
             "ocr_texts": [
@@ -2066,19 +2003,73 @@
     },
     {
         "meta": {
-            "id": 186,
-            "ts": 1752965886.811936,
+            "id": 180,
+            "ts": 1752968061.805524,
             "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
             "src_fps": 30.0,
             "ocr_texts": [
-                "Wasilu"
+                "Washicioi"
             ]
         }
     },
     {
         "meta": {
+            "id": 181,
+            "ts": 1752968061.972194,
+            "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
+            "src_fps": 30.0,
+            "ocr_texts": []
+        }
+    },
+    {
+        "meta": {
+            "id": 182,
+            "ts": 1752968062.105527,
+            "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
+            "src_fps": 30.0,
+            "ocr_texts": []
+        }
+    },
+    {
+        "meta": {
+            "id": 183,
+            "ts": 1752968062.236678,
+            "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
+            "src_fps": 30.0,
+            "ocr_texts": []
+        }
+    },
+    {
+        "meta": {
+            "id": 184,
+            "ts": 1752968062.404941,
+            "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
+            "src_fps": 30.0,
+            "ocr_texts": []
+        }
+    },
+    {
+        "meta": {
+            "id": 185,
+            "ts": 1752968062.534495,
+            "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
+            "src_fps": 30.0,
+            "ocr_texts": []
+        }
+    },
+    {
+        "meta": {
+            "id": 186,
+            "ts": 1752968062.672208,
+            "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
+            "src_fps": 30.0,
+            "ocr_texts": []
+        }
+    },
+    {
+        "meta": {
             "id": 187,
-            "ts": 1752965886.947771,
+            "ts": 1752968062.805532,
             "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
             "src_fps": 30.0,
             "ocr_texts": []
@@ -2087,7 +2078,7 @@
     {
         "meta": {
             "id": 188,
-            "ts": 1752965887.081096,
+            "ts": 1752968062.935503,
             "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
             "src_fps": 30.0,
             "ocr_texts": []
@@ -2096,7 +2087,7 @@
     {
         "meta": {
             "id": 189,
-            "ts": 1752965887.210036,
+            "ts": 1752968063.07219,
             "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
             "src_fps": 30.0,
             "ocr_texts": []
@@ -2105,7 +2096,7 @@
     {
         "meta": {
             "id": 190,
-            "ts": 1752965887.345986,
+            "ts": 1752968063.205523,
             "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
             "src_fps": 30.0,
             "ocr_texts": []
@@ -2114,7 +2105,7 @@
     {
         "meta": {
             "id": 191,
-            "ts": 1752965887.514036,
+            "ts": 1752968063.368776,
             "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
             "src_fps": 30.0,
             "ocr_texts": []
@@ -2123,7 +2114,7 @@
     {
         "meta": {
             "id": 192,
-            "ts": 1752965887.647382,
+            "ts": 1752968063.501822,
             "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
             "src_fps": 30.0,
             "ocr_texts": []
@@ -2132,7 +2123,7 @@
     {
         "meta": {
             "id": 193,
-            "ts": 1752965887.781102,
+            "ts": 1752968063.638849,
             "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
             "src_fps": 30.0,
             "ocr_texts": []
@@ -2141,7 +2132,7 @@
     {
         "meta": {
             "id": 194,
-            "ts": 1752965887.914467,
+            "ts": 1752968063.772187,
             "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
             "src_fps": 30.0,
             "ocr_texts": []
@@ -2150,7 +2141,7 @@
     {
         "meta": {
             "id": 195,
-            "ts": 1752965888.047053,
+            "ts": 1752968063.905537,
             "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
             "src_fps": 30.0,
             "ocr_texts": []
@@ -2159,7 +2150,7 @@
     {
         "meta": {
             "id": 196,
-            "ts": 1752965888.1811,
+            "ts": 1752968064.038869,
             "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
             "src_fps": 30.0,
             "ocr_texts": []
@@ -2168,7 +2159,7 @@
     {
         "meta": {
             "id": 197,
-            "ts": 1752965888.310852,
+            "ts": 1752968064.172192,
             "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
             "src_fps": 30.0,
             "ocr_texts": []
@@ -2177,7 +2168,7 @@
     {
         "meta": {
             "id": 198,
-            "ts": 1752965888.447376,
+            "ts": 1752968064.305478,
             "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
             "src_fps": 30.0,
             "ocr_texts": []
@@ -2186,7 +2177,7 @@
     {
         "meta": {
             "id": 199,
-            "ts": 1752965888.576275,
+            "ts": 1752968064.438851,
             "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
             "src_fps": 30.0,
             "ocr_texts": []
@@ -2195,7 +2186,7 @@
     {
         "meta": {
             "id": 200,
-            "ts": 1752965888.71403,
+            "ts": 1752968064.605538,
             "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
             "src_fps": 30.0,
             "ocr_texts": []
@@ -2204,7 +2195,7 @@
     {
         "meta": {
             "id": 201,
-            "ts": 1752965888.879368,
+            "ts": 1752968064.735729,
             "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
             "src_fps": 30.0,
             "ocr_texts": []
@@ -2213,7 +2204,7 @@
     {
         "meta": {
             "id": 202,
-            "ts": 1752965889.012725,
+            "ts": 1752968064.872194,
             "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
             "src_fps": 30.0,
             "ocr_texts": []
@@ -2222,7 +2213,7 @@
     {
         "meta": {
             "id": 203,
-            "ts": 1752965889.14772,
+            "ts": 1752968065.005522,
             "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
             "src_fps": 30.0,
             "ocr_texts": []
@@ -2231,7 +2222,7 @@
     {
         "meta": {
             "id": 204,
-            "ts": 1752965889.281097,
+            "ts": 1752968065.138854,
             "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
             "src_fps": 30.0,
             "ocr_texts": []
@@ -2240,7 +2231,7 @@
     {
         "meta": {
             "id": 205,
-            "ts": 1752965889.414447,
+            "ts": 1752968065.272188,
             "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
             "src_fps": 30.0,
             "ocr_texts": []
@@ -2249,7 +2240,7 @@
     {
         "meta": {
             "id": 206,
-            "ts": 1752965889.547755,
+            "ts": 1752968065.405522,
             "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
             "src_fps": 30.0,
             "ocr_texts": []
@@ -2258,7 +2249,7 @@
     {
         "meta": {
             "id": 207,
-            "ts": 1752965889.681087,
+            "ts": 1752968065.572299,
             "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
             "src_fps": 30.0,
             "ocr_texts": []
@@ -2267,7 +2258,7 @@
     {
         "meta": {
             "id": 208,
-            "ts": 1752965889.845145,
+            "ts": 1752968065.705529,
             "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
             "src_fps": 30.0,
             "ocr_texts": []
@@ -2276,7 +2267,7 @@
     {
         "meta": {
             "id": 209,
-            "ts": 1752965889.981089,
+            "ts": 1752968065.838854,
             "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
             "src_fps": 30.0,
             "ocr_texts": []
@@ -2285,7 +2276,7 @@
     {
         "meta": {
             "id": 210,
-            "ts": 1752965890.114425,
+            "ts": 1752968065.968812,
             "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
             "src_fps": 30.0,
             "ocr_texts": []
@@ -2294,7 +2285,7 @@
     {
         "meta": {
             "id": 211,
-            "ts": 1752965890.247764,
+            "ts": 1752968066.102463,
             "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
             "src_fps": 30.0,
             "ocr_texts": []
@@ -2303,7 +2294,7 @@
     {
         "meta": {
             "id": 212,
-            "ts": 1752965890.377501,
+            "ts": 1752968066.236304,
             "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
             "src_fps": 30.0,
             "ocr_texts": []
@@ -2312,7 +2303,7 @@
     {
         "meta": {
             "id": 213,
-            "ts": 1752965890.514458,
+            "ts": 1752968066.368015,
             "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
             "src_fps": 30.0,
             "ocr_texts": []
@@ -2321,7 +2312,7 @@
     {
         "meta": {
             "id": 214,
-            "ts": 1752965890.644701,
+            "ts": 1752968066.50151,
             "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
             "src_fps": 30.0,
             "ocr_texts": []
@@ -2330,7 +2321,7 @@
     {
         "meta": {
             "id": 215,
-            "ts": 1752965890.781095,
+            "ts": 1752968066.672181,
             "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
             "src_fps": 30.0,
             "ocr_texts": []
@@ -2339,7 +2330,7 @@
     {
         "meta": {
             "id": 216,
-            "ts": 1752965890.914418,
+            "ts": 1752968066.805544,
             "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
             "src_fps": 30.0,
             "ocr_texts": []
@@ -2348,61 +2339,7 @@
     {
         "meta": {
             "id": 217,
-            "ts": 1752965891.047748,
-            "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
-            "src_fps": 30.0,
-            "ocr_texts": []
-        }
-    },
-    {
-        "meta": {
-            "id": 218,
-            "ts": 1752965891.210077,
-            "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
-            "src_fps": 30.0,
-            "ocr_texts": []
-        }
-    },
-    {
-        "meta": {
-            "id": 219,
-            "ts": 1752965891.380296,
-            "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
-            "src_fps": 30.0,
-            "ocr_texts": []
-        }
-    },
-    {
-        "meta": {
-            "id": 220,
-            "ts": 1752965891.514438,
-            "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
-            "src_fps": 30.0,
-            "ocr_texts": []
-        }
-    },
-    {
-        "meta": {
-            "id": 221,
-            "ts": 1752965891.647372,
-            "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
-            "src_fps": 30.0,
-            "ocr_texts": []
-        }
-    },
-    {
-        "meta": {
-            "id": 222,
-            "ts": 1752965891.781077,
-            "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
-            "src_fps": 30.0,
-            "ocr_texts": []
-        }
-    },
-    {
-        "meta": {
-            "id": 223,
-            "ts": 1752965891.914417,
+            "ts": 1752968066.938394,
             "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
             "src_fps": 30.0,
             "ocr_texts": [
@@ -2412,8 +2349,8 @@
     },
     {
         "meta": {
-            "id": 224,
-            "ts": 1752965892.047365,
+            "id": 218,
+            "ts": 1752968067.072182,
             "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
             "src_fps": 30.0,
             "ocr_texts": [
@@ -2423,20 +2360,20 @@
     },
     {
         "meta": {
-            "id": 225,
-            "ts": 1752965892.177908,
+            "id": 219,
+            "ts": 1752968067.23745,
             "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
             "src_fps": 30.0,
             "ocr_texts": [
-                "BFRA7??",
-                "Winshncton"
+                "BFRG732",
+                "WashngtON"
             ]
         }
     },
     {
         "meta": {
-            "id": 226,
-            "ts": 1752965892.347755,
+            "id": 220,
+            "ts": 1752968067.367855,
             "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
             "src_fps": 30.0,
             "ocr_texts": [
@@ -2448,8 +2385,8 @@
     },
     {
         "meta": {
-            "id": 227,
-            "ts": 1752965892.514416,
+            "id": 221,
+            "ts": 1752968067.535725,
             "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
             "src_fps": 30.0,
             "ocr_texts": [
@@ -2461,8 +2398,8 @@
     },
     {
         "meta": {
-            "id": 228,
-            "ts": 1752965892.644719,
+            "id": 222,
+            "ts": 1752968067.672178,
             "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
             "src_fps": 30.0,
             "ocr_texts": [
@@ -2474,8 +2411,8 @@
     },
     {
         "meta": {
-            "id": 229,
-            "ts": 1752965892.810045,
+            "id": 223,
+            "ts": 1752968067.838848,
             "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
             "src_fps": 30.0,
             "ocr_texts": [
@@ -2486,8 +2423,8 @@
     },
     {
         "meta": {
-            "id": 230,
-            "ts": 1752965892.981074,
+            "id": 224,
+            "ts": 1752968068.005521,
             "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
             "src_fps": 30.0,
             "ocr_texts": [
@@ -2498,8 +2435,8 @@
     },
     {
         "meta": {
-            "id": 231,
-            "ts": 1752965893.146029,
+            "id": 225,
+            "ts": 1752968068.170392,
             "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
             "src_fps": 30.0,
             "ocr_texts": [
@@ -2510,8 +2447,8 @@
     },
     {
         "meta": {
-            "id": 232,
-            "ts": 1752965893.2811,
+            "id": 226,
+            "ts": 1752968068.305523,
             "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
             "src_fps": 30.0,
             "ocr_texts": [
@@ -2523,8 +2460,8 @@
     },
     {
         "meta": {
-            "id": 233,
-            "ts": 1752965893.447743,
+            "id": 227,
+            "ts": 1752968068.472183,
             "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
             "src_fps": 30.0,
             "ocr_texts": [
@@ -2536,8 +2473,8 @@
     },
     {
         "meta": {
-            "id": 234,
-            "ts": 1752965893.614416,
+            "id": 228,
+            "ts": 1752968068.638842,
             "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
             "src_fps": 30.0,
             "ocr_texts": [
@@ -2549,8 +2486,8 @@
     },
     {
         "meta": {
-            "id": 235,
-            "ts": 1752965893.781087,
+            "id": 229,
+            "ts": 1752968068.805507,
             "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
             "src_fps": 30.0,
             "ocr_texts": [
@@ -2562,8 +2499,8 @@
     },
     {
         "meta": {
-            "id": 236,
-            "ts": 1752965893.914418,
+            "id": 230,
+            "ts": 1752968068.938863,
             "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
             "src_fps": 30.0,
             "ocr_texts": [
@@ -2575,21 +2512,21 @@
     },
     {
         "meta": {
-            "id": 237,
-            "ts": 1752965894.081075,
+            "id": 231,
+            "ts": 1752968069.134016,
             "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
             "src_fps": 30.0,
             "ocr_texts": [
-                "BF",
+                "BFL",
                 "R4732 |",
-                "MashNGTON"
+                "WashnGton"
             ]
         }
     },
     {
         "meta": {
-            "id": 238,
-            "ts": 1752965894.247742,
+            "id": 232,
+            "ts": 1752968069.272173,
             "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
             "src_fps": 30.0,
             "ocr_texts": [
@@ -2601,8 +2538,8 @@
     },
     {
         "meta": {
-            "id": 239,
-            "ts": 1752965894.380894,
+            "id": 233,
+            "ts": 1752968069.438847,
             "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
             "src_fps": 30.0,
             "ocr_texts": [
@@ -2614,8 +2551,8 @@
     },
     {
         "meta": {
-            "id": 240,
-            "ts": 1752965894.547743,
+            "id": 234,
+            "ts": 1752968069.605506,
             "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
             "src_fps": 30.0,
             "ocr_texts": [
@@ -2627,70 +2564,68 @@
     },
     {
         "meta": {
-            "id": 241,
-            "ts": 1752965894.714411,
+            "id": 235,
+            "ts": 1752968069.772176,
             "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
             "src_fps": 30.0,
             "ocr_texts": [
-                "MasiiGTOH",
+                "WastNGTON",
                 "BFR4732 "
             ]
         }
     },
     {
         "meta": {
-            "id": 242,
-            "ts": 1752965894.877494,
+            "id": 236,
+            "ts": 1752968069.93884,
             "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
             "src_fps": 30.0,
             "ocr_texts": [
-                "WasiNGTON",
+                "WaBhNGTON",
                 "BFR4732"
             ]
         }
     },
     {
         "meta": {
-            "id": 243,
-            "ts": 1752965895.047739,
+            "id": 237,
+            "ts": 1752968070.103487,
             "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
             "src_fps": 30.0,
             "ocr_texts": [
-                "K",
-                "R4732 |",
-                "WaehQTON"
+                "Washmioton",
+                "BFR4732"
             ]
         }
     },
     {
         "meta": {
-            "id": 244,
-            "ts": 1752965895.177157,
+            "id": 238,
+            "ts": 1752968070.236016,
             "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
             "src_fps": 30.0,
             "ocr_texts": [
-                "BFT",
-                "Wasigton",
-                "R4732 '"
+                "Wasioton",
+                "BFR4732 "
             ]
         }
     },
     {
         "meta": {
-            "id": 245,
-            "ts": 1752965895.346406,
+            "id": 239,
+            "ts": 1752968070.405501,
             "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
             "src_fps": 30.0,
             "ocr_texts": [
-                "washungton",
-                "BFR4732 '"
+                "Masingtoti",
+                "BFR4732"
             ]
         }
     },
     {
         "meta": {
-            "id": 246,
-            "ts": 1752965895.514411,
+            "id": 240,
+            "ts": 1752968070.538845,
             "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
             "src_fps": 30.0,
             "ocr_texts": [
@@ -2701,46 +2636,45 @@
     },
     {
         "meta": {
-            "id": 247,
-            "ts": 1752965895.647383,
+            "id": 241,
+            "ts": 1752968070.705499,
             "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
             "src_fps": 30.0,
             "ocr_texts": [
-                "BFL",
-                "WnemctoN",
-                "R4732 '"
+                "Wasi#naton",
+                "BFR4732 "
             ]
         }
     },
     {
         "meta": {
-            "id": 248,
-            "ts": 1752965895.814404,
+            "id": 242,
+            "ts": 1752968070.871868,
             "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
             "src_fps": 30.0,
             "ocr_texts": [
-                "Wrhtictor",
+                "Wrmacion",
                 "BFR4732 '"
             ]
         }
     },
     {
         "meta": {
-            "id": 249,
-            "ts": 1752965895.946049,
+            "id": 243,
+            "ts": 1752968071.034402,
             "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
             "src_fps": 30.0,
             "ocr_texts": [
                 "B",
-                "Washiotor",
-                "JFR4732 '"
+                "Wasimngtor",
+                "JFR4732"
             ]
         }
     },
     {
         "meta": {
-            "id": 250,
-            "ts": 1752965896.114398,
+            "id": 244,
+            "ts": 1752968071.172172,
             "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
             "src_fps": 30.0,
             "ocr_texts": [
@@ -2752,8 +2686,8 @@
     },
     {
         "meta": {
-            "id": 251,
-            "ts": 1752965896.277976,
+            "id": 245,
+            "ts": 1752968071.338837,
             "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
             "src_fps": 30.0,
             "ocr_texts": [
@@ -2765,8 +2699,8 @@
     },
     {
         "meta": {
-            "id": 252,
-            "ts": 1752965896.447365,
+            "id": 246,
+            "ts": 1752968071.505501,
             "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
             "src_fps": 30.0,
             "ocr_texts": [
@@ -2778,47 +2712,47 @@
     },
     {
         "meta": {
-            "id": 253,
-            "ts": 1752965896.612226,
+            "id": 247,
+            "ts": 1752968071.672167,
             "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
             "src_fps": 30.0,
             "ocr_texts": [
                 "BF",
-                "\"R4732 |",
-                "Wnehwoton"
+                "Wnshwoton",
+                "R4732 '"
             ]
         }
     },
     {
         "meta": {
-            "id": 254,
-            "ts": 1752965896.781072,
+            "id": 248,
+            "ts": 1752968071.838841,
             "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
             "src_fps": 30.0,
             "ocr_texts": [
                 "B",
-                "Winshwaton",
-                "FR4732 }"
+                "JFR4732 |",
+                "Washwgtot"
             ]
         }
     },
     {
         "meta": {
-            "id": 255,
-            "ts": 1752965896.947741,
+            "id": 249,
+            "ts": 1752968072.004749,
             "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
             "src_fps": 30.0,
             "ocr_texts": [
-                "8",
-                "Washwgton",
-                "FR4732 }"
+                "B",
+                "Mashwgton",
+                "FR4732 "
             ]
         }
     },
     {
         "meta": {
-            "id": 256,
-            "ts": 1752965897.114411,
+            "id": 250,
+            "ts": 1752968072.134812,
             "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
             "src_fps": 30.0,
             "ocr_texts": [
@@ -2830,47 +2764,47 @@
     },
     {
         "meta": {
-            "id": 257,
-            "ts": 1752965897.247743,
+            "id": 251,
+            "ts": 1752968072.305496,
             "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
             "src_fps": 30.0,
             "ocr_texts": [
                 "BF",
                 "R4732 |",
-                "Washhigtoti"
+                "WashmGtON"
             ]
         }
     },
     {
         "meta": {
-            "id": 258,
-            "ts": 1752965897.41441,
+            "id": 252,
+            "ts": 1752968072.469069,
             "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
             "src_fps": 30.0,
             "ocr_texts": [
                 "BF",
-                "\"R4732 |",
+                "R4732 |",
                 "Washmigtot"
             ]
         }
     },
     {
         "meta": {
-            "id": 259,
-            "ts": 1752965897.581073,
+            "id": 253,
+            "ts": 1752968072.638834,
             "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
             "src_fps": 30.0,
             "ocr_texts": [
                 "BF",
                 "R4732 |",
-                "Wunsmnoton"
+                "Washotoh"
             ]
         }
     },
     {
         "meta": {
-            "id": 260,
-            "ts": 1752965897.747734,
+            "id": 254,
+            "ts": 1752968072.772168,
             "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
             "src_fps": 30.0,
             "ocr_texts": [
@@ -2882,8 +2816,8 @@
     },
     {
         "meta": {
-            "id": 261,
-            "ts": 1752965897.914404,
+            "id": 255,
+            "ts": 1752968072.93884,
             "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
             "src_fps": 30.0,
             "ocr_texts": [
@@ -2895,8 +2829,8 @@
     },
     {
         "meta": {
-            "id": 262,
-            "ts": 1752965898.076308,
+            "id": 256,
+            "ts": 1752968073.103733,
             "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
             "src_fps": 30.0,
             "ocr_texts": [
@@ -2907,98 +2841,85 @@
     },
     {
         "meta": {
-            "id": 263,
-            "ts": 1752965898.214403,
+            "id": 257,
+            "ts": 1752968073.272165,
             "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
             "src_fps": 30.0,
             "ocr_texts": [
                 "BFR4732 |",
-                "Mne@iot"
+                "Wasiunoton"
             ]
         }
     },
     {
         "meta": {
-            "id": 264,
-            "ts": 1752965898.381067,
-            "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
-            "src_fps": 30.0,
-            "ocr_texts": [
-                "BF",
-                "NnshGtou",
-                "R4732 '"
-            ]
-        }
-    },
-    {
-        "meta": {
-            "id": 265,
-            "ts": 1752965898.512071,
+            "id": 258,
+            "ts": 1752968073.43809,
             "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
             "src_fps": 30.0,
             "ocr_texts": [
                 "BF",
                 "[R4732 |",
-                "Wnshgiol"
+                "Washutotohi"
             ]
         }
     },
     {
         "meta": {
-            "id": 266,
-            "ts": 1752965898.681068,
+            "id": 259,
+            "ts": 1752968073.60551,
             "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
             "src_fps": 30.0,
             "ocr_texts": [
                 "BF",
                 "R4732 |",
-                "MneiGTot"
-            ]
-        }
-    },
-    {
-        "meta": {
-            "id": 267,
-            "ts": 1752965898.847732,
-            "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
-            "src_fps": 30.0,
-            "ocr_texts": [
-                "BF",
-                "[R4732 |",
-                "Mnel @toH"
-            ]
-        }
-    },
-    {
-        "meta": {
-            "id": 268,
-            "ts": 1752965899.014405,
-            "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
-            "src_fps": 30.0,
-            "ocr_texts": [
-                "BF",
-                "[R4732 |",
-                "Washuotoh"
-            ]
-        }
-    },
-    {
-        "meta": {
-            "id": 269,
-            "ts": 1752965899.180318,
-            "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
-            "src_fps": 30.0,
-            "ocr_texts": [
-                "BF",
-                "[R4732 |",
                 "Wunshnotoh"
             ]
         }
     },
     {
         "meta": {
-            "id": 270,
-            "ts": 1752965899.34501,
+            "id": 260,
+            "ts": 1752968073.738843,
+            "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
+            "src_fps": 30.0,
+            "ocr_texts": [
+                "BF",
+                "R4732 |",
+                "Wunshotoh"
+            ]
+        }
+    },
+    {
+        "meta": {
+            "id": 261,
+            "ts": 1752968073.90521,
+            "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
+            "src_fps": 30.0,
+            "ocr_texts": [
+                "BF",
+                "[R4732 |",
+                "Wunshwotoh"
+            ]
+        }
+    },
+    {
+        "meta": {
+            "id": 262,
+            "ts": 1752968074.101341,
+            "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
+            "src_fps": 30.0,
+            "ocr_texts": [
+                "BF",
+                "[R4732 |",
+                "Washuotoh"
+            ]
+        }
+    },
+    {
+        "meta": {
+            "id": 263,
+            "ts": 1752968074.267378,
             "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
             "src_fps": 30.0,
             "ocr_texts": [
@@ -3010,177 +2931,164 @@
     },
     {
         "meta": {
-            "id": 271,
-            "ts": 1752965899.477681,
+            "id": 264,
+            "ts": 1752968074.470272,
             "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
             "src_fps": 30.0,
             "ocr_texts": [
                 "BF",
                 "[R4732 |",
                 "Wunshnoton"
+            ]
+        }
+    },
+    {
+        "meta": {
+            "id": 265,
+            "ts": 1752968074.669825,
+            "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
+            "src_fps": 30.0,
+            "ocr_texts": [
+                "BF",
+                "[R4732 |",
+                "Wunshnoton"
+            ]
+        }
+    },
+    {
+        "meta": {
+            "id": 266,
+            "ts": 1752968074.838471,
+            "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
+            "src_fps": 30.0,
+            "ocr_texts": [
+                "BF",
+                "WiastctON",
+                "R4732 '"
+            ]
+        }
+    },
+    {
+        "meta": {
+            "id": 267,
+            "ts": 1752968075.004302,
+            "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
+            "src_fps": 30.0,
+            "ocr_texts": [
+                "BF",
+                "WiastctON",
+                "R4732 '"
+            ]
+        }
+    },
+    {
+        "meta": {
+            "id": 268,
+            "ts": 1752968075.172162,
+            "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
+            "src_fps": 30.0,
+            "ocr_texts": [
+                "BF",
+                "[R4732 |",
+                "Wiasiuricion"
+            ]
+        }
+    },
+    {
+        "meta": {
+            "id": 269,
+            "ts": 1752968075.336539,
+            "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
+            "src_fps": 30.0,
+            "ocr_texts": [
+                "BF",
+                "[R4732 |",
+                "Wiasiuricion"
+            ]
+        }
+    },
+    {
+        "meta": {
+            "id": 270,
+            "ts": 1752968075.500536,
+            "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
+            "src_fps": 30.0,
+            "ocr_texts": [
+                "BF",
+                "[R4732 |",
+                "Wiasiuricion"
+            ]
+        }
+    },
+    {
+        "meta": {
+            "id": 271,
+            "ts": 1752968075.672179,
+            "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
+            "src_fps": 30.0,
+            "ocr_texts": [
+                "BF",
+                "\"R4732 |",
+                "ViastCiON"
             ]
         }
     },
     {
         "meta": {
             "id": 272,
-            "ts": 1752965899.647723,
+            "ts": 1752968075.838826,
             "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
             "src_fps": 30.0,
             "ocr_texts": [
                 "BF",
-                "[R4732 |",
-                "Wunshnoton"
+                "\"R4732 |",
+                "ViastCiON"
             ]
         }
     },
     {
         "meta": {
             "id": 273,
-            "ts": 1752965899.777291,
+            "ts": 1752968076.005495,
             "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
             "src_fps": 30.0,
             "ocr_texts": [
                 "BF",
-                "WiastctON",
-                "R4732 '"
+                "R4732 |",
+                "ViastCiON"
             ]
         }
     },
     {
         "meta": {
             "id": 274,
-            "ts": 1752965899.946039,
+            "ts": 1752968076.172163,
             "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
             "src_fps": 30.0,
             "ocr_texts": [
                 "BF",
-                "WiastctON",
-                "R4732 '"
+                "[R4732 |",
+                "ViastCiON"
             ]
         }
     },
     {
         "meta": {
             "id": 275,
-            "ts": 1752965900.114392,
+            "ts": 1752968076.333876,
             "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
             "src_fps": 30.0,
             "ocr_texts": [
-                "BF",
-                "[R4732 |",
-                "Wiasiuricion"
+                "B",
+                "MngTOH",
+                "FR4732 '"
             ]
         }
     },
     {
         "meta": {
             "id": 276,
-            "ts": 1752965900.276695,
-            "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
-            "src_fps": 30.0,
-            "ocr_texts": [
-                "BF",
-                "[R4732 |",
-                "Wiasiuricion"
-            ]
-        }
-    },
-    {
-        "meta": {
-            "id": 277,
-            "ts": 1752965900.445952,
-            "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
-            "src_fps": 30.0,
-            "ocr_texts": [
-                "BF",
-                "[R4732 |",
-                "Wiasiuricion"
-            ]
-        }
-    },
-    {
-        "meta": {
-            "id": 278,
-            "ts": 1752965900.578376,
-            "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
-            "src_fps": 30.0,
-            "ocr_texts": [
-                "BF",
-                "[R4732 |",
-                "Wunshunotoh"
-            ]
-        }
-    },
-    {
-        "meta": {
-            "id": 279,
-            "ts": 1752965900.747046,
-            "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
-            "src_fps": 30.0,
-            "ocr_texts": [
-                "BF",
-                "\"R4732 |",
-                "ViastCiON"
-            ]
-        }
-    },
-    {
-        "meta": {
-            "id": 280,
-            "ts": 1752965900.914394,
-            "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
-            "src_fps": 30.0,
-            "ocr_texts": [
-                "BF",
-                "\"R4732 |",
-                "ViastCiON"
-            ]
-        }
-    },
-    {
-        "meta": {
-            "id": 281,
-            "ts": 1752965901.081053,
-            "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
-            "src_fps": 30.0,
-            "ocr_texts": [
-                "BF",
-                "[R4732 |",
-                "ViastCiON"
-            ]
-        }
-    },
-    {
-        "meta": {
-            "id": 282,
-            "ts": 1752965901.242767,
-            "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
-            "src_fps": 30.0,
-            "ocr_texts": [
-                "B",
-                "MngTOH",
-                "FR4732 '"
-            ]
-        }
-    },
-    {
-        "meta": {
-            "id": 283,
-            "ts": 1752965901.381054,
-            "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
-            "src_fps": 30.0,
-            "ocr_texts": [
-                "B",
-                "MngTOH",
-                "FR4732 '"
-            ]
-        }
-    },
-    {
-        "meta": {
-            "id": 284,
-            "ts": 1752965901.547725,
+            "ts": 1752968076.503743,
             "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
             "src_fps": 30.0,
             "ocr_texts": [
@@ -3191,119 +3099,203 @@
     },
     {
         "meta": {
-            "id": 285,
-            "ts": 1752965901.781055,
+            "id": 277,
+            "ts": 1752968076.705487,
             "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
             "src_fps": 30.0,
             "ocr_texts": [
-                "BFT",
-                "Wasiuiotoh",
+                "Wast#hGTOF",
+                "BFR4732 '"
+            ]
+        }
+    },
+    {
+        "meta": {
+            "id": 278,
+            "ts": 1752968076.904759,
+            "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
+            "src_fps": 30.0,
+            "ocr_texts": [
+                "HF",
+                "Wasitigton",
                 "R4732 '"
             ]
         }
     },
     {
         "meta": {
-            "id": 286,
-            "ts": 1752965901.946036,
+            "id": 279,
+            "ts": 1752968077.072159,
             "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
             "src_fps": 30.0,
             "ocr_texts": [
-                "Wasimhototi",
-                "BFR4732 !"
+                "BF",
+                "R4732 |",
+                "WiashotOti"
+            ]
+        }
+    },
+    {
+        "meta": {
+            "id": 280,
+            "ts": 1752968077.238834,
+            "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
+            "src_fps": 30.0,
+            "ocr_texts": [
+                "BF",
+                "WaSHGTON",
+                "R4732 '"
+            ]
+        }
+    },
+    {
+        "meta": {
+            "id": 281,
+            "ts": 1752968077.40166,
+            "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
+            "src_fps": 30.0,
+            "ocr_texts": [
+                "B",
+                "JFR4732 ",
+                "MashimiotOti"
+            ]
+        }
+    },
+    {
+        "meta": {
+            "id": 282,
+            "ts": 1752968077.572164,
+            "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
+            "src_fps": 30.0,
+            "ocr_texts": [
+                "Vinehictohi",
+                "BFR4732"
+            ]
+        }
+    },
+    {
+        "meta": {
+            "id": 283,
+            "ts": 1752968077.737639,
+            "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
+            "src_fps": 30.0,
+            "ocr_texts": [
+                "Viashmotot",
+                "BFR4732"
+            ]
+        }
+    },
+    {
+        "meta": {
+            "id": 284,
+            "ts": 1752968077.90438,
+            "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
+            "src_fps": 30.0,
+            "ocr_texts": [
+                "Walicoli",
+                "BFR4732"
+            ]
+        }
+    },
+    {
+        "meta": {
+            "id": 285,
+            "ts": 1752968078.071125,
+            "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
+            "src_fps": 30.0,
+            "ocr_texts": [
+                "4do",
+                "BFR4727"
+            ]
+        }
+    },
+    {
+        "meta": {
+            "id": 286,
+            "ts": 1752968078.238821,
+            "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
+            "src_fps": 30.0,
+            "ocr_texts": [
+                "",
+                "Ynu"
             ]
         }
     },
     {
         "meta": {
             "id": 287,
-            "ts": 1752965902.081055,
+            "ts": 1752968078.372168,
             "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
             "src_fps": 30.0,
-            "ocr_texts": [
-                "BF",
-                "R4732 |",
-                "WashnGton"
-            ]
+            "ocr_texts": []
         }
     },
     {
         "meta": {
             "id": 288,
-            "ts": 1752965902.281065,
+            "ts": 1752968078.538414,
             "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
             "src_fps": 30.0,
             "ocr_texts": [
-                "wasiuhigion",
-                "BFR4732 '"
+                "PL",
+                "3"
             ]
         }
     },
     {
         "meta": {
             "id": 289,
-            "ts": 1752965902.447071,
+            "ts": 1752968078.703741,
             "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
             "src_fps": 30.0,
             "ocr_texts": [
-                "B",
-                "Yiashiligtoli",
-                "FR4732 '"
+                "("
             ]
         }
     },
     {
         "meta": {
             "id": 290,
-            "ts": 1752965902.614383,
+            "ts": 1752968078.838145,
             "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
             "src_fps": 30.0,
             "ocr_texts": [
-                "Vineimicton",
-                "BFR4732 '"
+                "4",
+                ""
             ]
         }
     },
     {
         "meta": {
             "id": 291,
-            "ts": 1752965902.776161,
+            "ts": 1752968079.005494,
             "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
             "src_fps": 30.0,
-            "ocr_texts": [
-                "Viaemmictoi",
-                "BFR4732"
-            ]
+            "ocr_texts": []
         }
     },
     {
         "meta": {
             "id": 292,
-            "ts": 1752965902.945651,
+            "ts": 1752968079.172156,
             "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
             "src_fps": 30.0,
-            "ocr_texts": [
-                "\"Lcoi",
-                "BFR4732"
-            ]
+            "ocr_texts": []
         }
     },
     {
         "meta": {
             "id": 293,
-            "ts": 1752965903.114091,
+            "ts": 1752968079.434784,
             "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
             "src_fps": 30.0,
-            "ocr_texts": [
-                "BFP",
-                "Ao"
-            ]
+            "ocr_texts": []
         }
     },
     {
         "meta": {
             "id": 294,
-            "ts": 1752965903.280485,
+            "ts": 1752968079.605162,
             "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
             "src_fps": 30.0,
             "ocr_texts": []
@@ -3312,7 +3304,7 @@
     {
         "meta": {
             "id": 295,
-            "ts": 1752965903.444696,
+            "ts": 1752968079.735344,
             "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
             "src_fps": 30.0,
             "ocr_texts": []
@@ -3321,7 +3313,7 @@
     {
         "meta": {
             "id": 296,
-            "ts": 1752965903.614385,
+            "ts": 1752968079.868915,
             "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
             "src_fps": 30.0,
             "ocr_texts": []
@@ -3330,19 +3322,16 @@
     {
         "meta": {
             "id": 297,
-            "ts": 1752965903.747731,
+            "ts": 1752968080.004099,
             "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
             "src_fps": 30.0,
-            "ocr_texts": [
-                "4",
-                "4"
-            ]
+            "ocr_texts": []
         }
     },
     {
         "meta": {
             "id": 298,
-            "ts": 1752965903.881046,
+            "ts": 1752968080.138844,
             "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
             "src_fps": 30.0,
             "ocr_texts": []
@@ -3351,7 +3340,7 @@
     {
         "meta": {
             "id": 299,
-            "ts": 1752965904.01383,
+            "ts": 1752968080.305481,
             "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
             "src_fps": 30.0,
             "ocr_texts": []
@@ -3360,7 +3349,7 @@
     {
         "meta": {
             "id": 300,
-            "ts": 1752965904.181051,
+            "ts": 1752968080.437645,
             "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
             "src_fps": 30.0,
             "ocr_texts": []
@@ -3369,7 +3358,7 @@
     {
         "meta": {
             "id": 301,
-            "ts": 1752965904.314394,
+            "ts": 1752968080.570926,
             "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
             "src_fps": 30.0,
             "ocr_texts": []
@@ -3378,7 +3367,7 @@
     {
         "meta": {
             "id": 302,
-            "ts": 1752965904.44772,
+            "ts": 1752968080.705491,
             "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
             "src_fps": 30.0,
             "ocr_texts": []
@@ -3387,7 +3376,7 @@
     {
         "meta": {
             "id": 303,
-            "ts": 1752965904.581063,
+            "ts": 1752968080.870936,
             "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
             "src_fps": 30.0,
             "ocr_texts": []
@@ -3396,7 +3385,7 @@
     {
         "meta": {
             "id": 304,
-            "ts": 1752965904.714379,
+            "ts": 1752968081.005422,
             "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
             "src_fps": 30.0,
             "ocr_texts": []
@@ -3405,7 +3394,7 @@
     {
         "meta": {
             "id": 305,
-            "ts": 1752965904.847355,
+            "ts": 1752968081.135786,
             "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
             "src_fps": 30.0,
             "ocr_texts": []
@@ -3414,7 +3403,7 @@
     {
         "meta": {
             "id": 306,
-            "ts": 1752965904.981054,
+            "ts": 1752968081.305489,
             "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
             "src_fps": 30.0,
             "ocr_texts": []
@@ -3423,7 +3412,7 @@
     {
         "meta": {
             "id": 307,
-            "ts": 1752965905.114025,
+            "ts": 1752968081.438819,
             "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
             "src_fps": 30.0,
             "ocr_texts": []
@@ -3432,7 +3421,7 @@
     {
         "meta": {
             "id": 308,
-            "ts": 1752965905.276912,
+            "ts": 1752968081.602091,
             "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
             "src_fps": 30.0,
             "ocr_texts": []
@@ -3441,7 +3430,7 @@
     {
         "meta": {
             "id": 309,
-            "ts": 1752965905.414394,
+            "ts": 1752968081.73881,
             "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
             "src_fps": 30.0,
             "ocr_texts": []
@@ -3450,7 +3439,7 @@
     {
         "meta": {
             "id": 310,
-            "ts": 1752965905.547721,
+            "ts": 1752968081.872146,
             "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
             "src_fps": 30.0,
             "ocr_texts": []
@@ -3459,7 +3448,7 @@
     {
         "meta": {
             "id": 311,
-            "ts": 1752965905.681053,
+            "ts": 1752968082.005482,
             "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
             "src_fps": 30.0,
             "ocr_texts": []
@@ -3468,7 +3457,7 @@
     {
         "meta": {
             "id": 312,
-            "ts": 1752965905.814384,
+            "ts": 1752968082.135165,
             "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
             "src_fps": 30.0,
             "ocr_texts": []
@@ -3477,7 +3466,7 @@
     {
         "meta": {
             "id": 313,
-            "ts": 1752965905.947728,
+            "ts": 1752968082.272147,
             "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
             "src_fps": 30.0,
             "ocr_texts": []
@@ -3486,7 +3475,7 @@
     {
         "meta": {
             "id": 314,
-            "ts": 1752965906.081072,
+            "ts": 1752968082.435572,
             "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
             "src_fps": 30.0,
             "ocr_texts": []
@@ -3495,7 +3484,7 @@
     {
         "meta": {
             "id": 315,
-            "ts": 1752965906.214391,
+            "ts": 1752968082.572139,
             "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
             "src_fps": 30.0,
             "ocr_texts": []
@@ -3504,7 +3493,7 @@
     {
         "meta": {
             "id": 316,
-            "ts": 1752965906.347724,
+            "ts": 1752968082.703273,
             "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
             "src_fps": 30.0,
             "ocr_texts": []
@@ -3513,7 +3502,7 @@
     {
         "meta": {
             "id": 317,
-            "ts": 1752965906.481043,
+            "ts": 1752968082.838807,
             "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
             "src_fps": 30.0,
             "ocr_texts": []
@@ -3522,7 +3511,7 @@
     {
         "meta": {
             "id": 318,
-            "ts": 1752965906.61545,
+            "ts": 1752968082.972144,
             "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
             "src_fps": 30.0,
             "ocr_texts": []
@@ -3531,7 +3520,7 @@
     {
         "meta": {
             "id": 319,
-            "ts": 1752965906.747707,
+            "ts": 1752968083.105486,
             "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
             "src_fps": 30.0,
             "ocr_texts": []
@@ -3540,7 +3529,7 @@
     {
         "meta": {
             "id": 320,
-            "ts": 1752965906.877698,
+            "ts": 1752968083.237087,
             "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
             "src_fps": 30.0,
             "ocr_texts": []
@@ -3549,7 +3538,7 @@
     {
         "meta": {
             "id": 321,
-            "ts": 1752965907.047706,
+            "ts": 1752968083.372135,
             "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
             "src_fps": 30.0,
             "ocr_texts": []
@@ -3558,7 +3547,7 @@
     {
         "meta": {
             "id": 322,
-            "ts": 1752965907.181045,
+            "ts": 1752968083.534431,
             "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
             "src_fps": 30.0,
             "ocr_texts": []
@@ -3567,7 +3556,7 @@
     {
         "meta": {
             "id": 323,
-            "ts": 1752965907.311433,
+            "ts": 1752968083.672161,
             "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
             "src_fps": 30.0,
             "ocr_texts": []
@@ -3576,7 +3565,7 @@
     {
         "meta": {
             "id": 324,
-            "ts": 1752965907.481054,
+            "ts": 1752968083.802432,
             "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
             "src_fps": 30.0,
             "ocr_texts": []
@@ -3585,7 +3574,7 @@
     {
         "meta": {
             "id": 325,
-            "ts": 1752965907.613728,
+            "ts": 1752968083.933903,
             "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
             "src_fps": 30.0,
             "ocr_texts": []
@@ -3594,7 +3583,7 @@
     {
         "meta": {
             "id": 326,
-            "ts": 1752965907.742944,
+            "ts": 1752968084.101098,
             "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
             "src_fps": 30.0,
             "ocr_texts": []
@@ -3603,7 +3592,7 @@
     {
         "meta": {
             "id": 327,
-            "ts": 1752965907.914394,
+            "ts": 1752968084.235078,
             "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
             "src_fps": 30.0,
             "ocr_texts": []
@@ -3612,7 +3601,7 @@
     {
         "meta": {
             "id": 328,
-            "ts": 1752965908.081907,
+            "ts": 1752968084.405092,
             "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
             "src_fps": 30.0,
             "ocr_texts": []
@@ -3621,7 +3610,7 @@
     {
         "meta": {
             "id": 329,
-            "ts": 1752965908.212341,
+            "ts": 1752968084.538819,
             "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
             "src_fps": 30.0,
             "ocr_texts": []
@@ -3630,7 +3619,7 @@
     {
         "meta": {
             "id": 330,
-            "ts": 1752965908.346019,
+            "ts": 1752968084.668736,
             "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
             "src_fps": 30.0,
             "ocr_texts": []
@@ -3639,7 +3628,7 @@
     {
         "meta": {
             "id": 331,
-            "ts": 1752965908.510126,
+            "ts": 1752968084.803664,
             "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
             "src_fps": 30.0,
             "ocr_texts": []
@@ -3648,7 +3637,7 @@
     {
         "meta": {
             "id": 332,
-            "ts": 1752965908.643198,
+            "ts": 1752968084.972132,
             "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
             "src_fps": 30.0,
             "ocr_texts": []
@@ -3657,7 +3646,7 @@
     {
         "meta": {
             "id": 333,
-            "ts": 1752965908.777159,
+            "ts": 1752968085.105478,
             "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
             "src_fps": 30.0,
             "ocr_texts": []
@@ -3666,7 +3655,7 @@
     {
         "meta": {
             "id": 334,
-            "ts": 1752965908.914383,
+            "ts": 1752968085.237273,
             "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
             "src_fps": 30.0,
             "ocr_texts": []
@@ -3675,7 +3664,7 @@
     {
         "meta": {
             "id": 335,
-            "ts": 1752965909.046716,
+            "ts": 1752968085.367761,
             "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
             "src_fps": 30.0,
             "ocr_texts": []
@@ -3684,7 +3673,7 @@
     {
         "meta": {
             "id": 336,
-            "ts": 1752965909.180296,
+            "ts": 1752968085.50549,
             "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
             "src_fps": 30.0,
             "ocr_texts": []
@@ -3693,7 +3682,7 @@
     {
         "meta": {
             "id": 337,
-            "ts": 1752965909.314369,
+            "ts": 1752968085.638838,
             "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
             "src_fps": 30.0,
             "ocr_texts": []
@@ -3702,7 +3691,7 @@
     {
         "meta": {
             "id": 338,
-            "ts": 1752965909.447715,
+            "ts": 1752968085.802637,
             "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
             "src_fps": 30.0,
             "ocr_texts": []
@@ -3711,7 +3700,7 @@
     {
         "meta": {
             "id": 339,
-            "ts": 1752965909.57802,
+            "ts": 1752968085.935768,
             "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
             "src_fps": 30.0,
             "ocr_texts": []
@@ -3720,7 +3709,7 @@
     {
         "meta": {
             "id": 340,
-            "ts": 1752965909.71134,
+            "ts": 1752968086.072132,
             "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
             "src_fps": 30.0,
             "ocr_texts": []
@@ -3729,7 +3718,7 @@
     {
         "meta": {
             "id": 341,
-            "ts": 1752965909.881037,
+            "ts": 1752968086.205489,
             "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
             "src_fps": 30.0,
             "ocr_texts": []
@@ -3738,7 +3727,7 @@
     {
         "meta": {
             "id": 342,
-            "ts": 1752965910.014369,
+            "ts": 1752968086.338807,
             "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
             "src_fps": 30.0,
             "ocr_texts": []
@@ -3747,7 +3736,7 @@
     {
         "meta": {
             "id": 343,
-            "ts": 1752965910.14771,
+            "ts": 1752968086.472136,
             "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
             "src_fps": 30.0,
             "ocr_texts": []
@@ -3756,7 +3745,7 @@
     {
         "meta": {
             "id": 344,
-            "ts": 1752965910.281035,
+            "ts": 1752968086.60546,
             "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
             "src_fps": 30.0,
             "ocr_texts": []
@@ -3765,7 +3754,7 @@
     {
         "meta": {
             "id": 345,
-            "ts": 1752965910.414382,
+            "ts": 1752968086.735506,
             "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
             "src_fps": 30.0,
             "ocr_texts": []
@@ -3774,7 +3763,7 @@
     {
         "meta": {
             "id": 346,
-            "ts": 1752965910.547709,
+            "ts": 1752968086.868669,
             "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
             "src_fps": 30.0,
             "ocr_texts": []
@@ -3783,7 +3772,7 @@
     {
         "meta": {
             "id": 347,
-            "ts": 1752965910.680416,
+            "ts": 1752968087.034554,
             "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
             "src_fps": 30.0,
             "ocr_texts": []
@@ -3792,7 +3781,7 @@
     {
         "meta": {
             "id": 348,
-            "ts": 1752965910.814358,
+            "ts": 1752968087.167791,
             "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
             "src_fps": 30.0,
             "ocr_texts": []
@@ -3801,7 +3790,7 @@
     {
         "meta": {
             "id": 349,
-            "ts": 1752965910.947046,
+            "ts": 1752968087.334536,
             "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
             "src_fps": 30.0,
             "ocr_texts": []
@@ -3810,7 +3799,7 @@
     {
         "meta": {
             "id": 350,
-            "ts": 1752965911.110584,
+            "ts": 1752968087.471765,
             "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
             "src_fps": 30.0,
             "ocr_texts": []
@@ -3819,7 +3808,7 @@
     {
         "meta": {
             "id": 351,
-            "ts": 1752965911.243251,
+            "ts": 1752968087.601,
             "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
             "src_fps": 30.0,
             "ocr_texts": []
@@ -3828,7 +3817,7 @@
     {
         "meta": {
             "id": 352,
-            "ts": 1752965911.380042,
+            "ts": 1752968087.738813,
             "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
             "src_fps": 30.0,
             "ocr_texts": []
@@ -3837,7 +3826,7 @@
     {
         "meta": {
             "id": 353,
-            "ts": 1752965911.514366,
+            "ts": 1752968087.867854,
             "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
             "src_fps": 30.0,
             "ocr_texts": []
@@ -3846,7 +3835,7 @@
     {
         "meta": {
             "id": 354,
-            "ts": 1752965911.647703,
+            "ts": 1752968088.005459,
             "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
             "src_fps": 30.0,
             "ocr_texts": []
@@ -3855,7 +3844,7 @@
     {
         "meta": {
             "id": 355,
-            "ts": 1752965911.776815,
+            "ts": 1752968088.137265,
             "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
             "src_fps": 30.0,
             "ocr_texts": []
@@ -3864,7 +3853,7 @@
     {
         "meta": {
             "id": 356,
-            "ts": 1752965911.914947,
+            "ts": 1752968088.272119,
             "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
             "src_fps": 30.0,
             "ocr_texts": []
@@ -3873,7 +3862,7 @@
     {
         "meta": {
             "id": 357,
-            "ts": 1752965912.079359,
+            "ts": 1752968088.405457,
             "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
             "src_fps": 30.0,
             "ocr_texts": []
@@ -3882,7 +3871,7 @@
     {
         "meta": {
             "id": 358,
-            "ts": 1752965912.210366,
+            "ts": 1752968088.538434,
             "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
             "src_fps": 30.0,
             "ocr_texts": []
@@ -3891,7 +3880,7 @@
     {
         "meta": {
             "id": 359,
-            "ts": 1752965912.347723,
+            "ts": 1752968088.705472,
             "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
             "src_fps": 30.0,
             "ocr_texts": []
@@ -3900,7 +3889,7 @@
     {
         "meta": {
             "id": 360,
-            "ts": 1752965912.512883,
+            "ts": 1752968088.83743,
             "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
             "src_fps": 30.0,
             "ocr_texts": []
@@ -3909,7 +3898,7 @@
     {
         "meta": {
             "id": 361,
-            "ts": 1752965912.650385,
+            "ts": 1752968088.972133,
             "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
             "src_fps": 30.0,
             "ocr_texts": []
@@ -3918,7 +3907,7 @@
     {
         "meta": {
             "id": 362,
-            "ts": 1752965912.781036,
+            "ts": 1752968089.103757,
             "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
             "src_fps": 30.0,
             "ocr_texts": []
@@ -3927,7 +3916,7 @@
     {
         "meta": {
             "id": 363,
-            "ts": 1752965912.914363,
+            "ts": 1752968089.236005,
             "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
             "src_fps": 30.0,
             "ocr_texts": []
@@ -3936,7 +3925,7 @@
     {
         "meta": {
             "id": 364,
-            "ts": 1752965913.046549,
+            "ts": 1752968089.405485,
             "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
             "src_fps": 30.0,
             "ocr_texts": []
@@ -3945,7 +3934,7 @@
     {
         "meta": {
             "id": 365,
-            "ts": 1752965913.177462,
+            "ts": 1752968089.535752,
             "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
             "src_fps": 30.0,
             "ocr_texts": []
@@ -3954,7 +3943,7 @@
     {
         "meta": {
             "id": 366,
-            "ts": 1752965913.314381,
+            "ts": 1752968089.673017,
             "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
             "src_fps": 30.0,
             "ocr_texts": []
@@ -3963,7 +3952,7 @@
     {
         "meta": {
             "id": 367,
-            "ts": 1752965913.447705,
+            "ts": 1752968089.805474,
             "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
             "src_fps": 30.0,
             "ocr_texts": []
@@ -3972,7 +3961,7 @@
     {
         "meta": {
             "id": 368,
-            "ts": 1752965913.576477,
+            "ts": 1752968089.938789,
             "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
             "src_fps": 30.0,
             "ocr_texts": []
@@ -3981,7 +3970,7 @@
     {
         "meta": {
             "id": 369,
-            "ts": 1752965913.71437,
+            "ts": 1752968090.067346,
             "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
             "src_fps": 30.0,
             "ocr_texts": []
@@ -3990,7 +3979,7 @@
     {
         "meta": {
             "id": 370,
-            "ts": 1752965913.84443,
+            "ts": 1752968090.205311,
             "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
             "src_fps": 30.0,
             "ocr_texts": []
@@ -3999,7 +3988,7 @@
     {
         "meta": {
             "id": 371,
-            "ts": 1752965913.981028,
+            "ts": 1752968090.334464,
             "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
             "src_fps": 30.0,
             "ocr_texts": []
@@ -4008,7 +3997,7 @@
     {
         "meta": {
             "id": 372,
-            "ts": 1752965914.114368,
+            "ts": 1752968090.501107,
             "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
             "src_fps": 30.0,
             "ocr_texts": []
@@ -4017,7 +4006,7 @@
     {
         "meta": {
             "id": 373,
-            "ts": 1752965914.244682,
+            "ts": 1752968090.638802,
             "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
             "src_fps": 30.0,
             "ocr_texts": []
@@ -4026,7 +4015,7 @@
     {
         "meta": {
             "id": 374,
-            "ts": 1752965914.378111,
+            "ts": 1752968090.772112,
             "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
             "src_fps": 30.0,
             "ocr_texts": []
@@ -4035,7 +4024,7 @@
     {
         "meta": {
             "id": 375,
-            "ts": 1752965914.547251,
+            "ts": 1752968090.905475,
             "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
             "src_fps": 30.0,
             "ocr_texts": []
@@ -4044,7 +4033,7 @@
     {
         "meta": {
             "id": 376,
-            "ts": 1752965914.678155,
+            "ts": 1752968091.038811,
             "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
             "src_fps": 30.0,
             "ocr_texts": []
@@ -4053,7 +4042,7 @@
     {
         "meta": {
             "id": 377,
-            "ts": 1752965914.811177,
+            "ts": 1752968091.172126,
             "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
             "src_fps": 30.0,
             "ocr_texts": []
@@ -4062,7 +4051,7 @@
     {
         "meta": {
             "id": 378,
-            "ts": 1752965914.947698,
+            "ts": 1752968091.305509,
             "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
             "src_fps": 30.0,
             "ocr_texts": []
@@ -4071,7 +4060,7 @@
     {
         "meta": {
             "id": 379,
-            "ts": 1752965915.081042,
+            "ts": 1752968091.433858,
             "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
             "src_fps": 30.0,
             "ocr_texts": []
@@ -4080,97 +4069,7 @@
     {
         "meta": {
             "id": 380,
-            "ts": 1752965915.21349,
-            "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
-            "src_fps": 30.0,
-            "ocr_texts": []
-        }
-    },
-    {
-        "meta": {
-            "id": 381,
-            "ts": 1752965915.347702,
-            "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
-            "src_fps": 30.0,
-            "ocr_texts": []
-        }
-    },
-    {
-        "meta": {
-            "id": 382,
-            "ts": 1752965915.478502,
-            "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
-            "src_fps": 30.0,
-            "ocr_texts": []
-        }
-    },
-    {
-        "meta": {
-            "id": 383,
-            "ts": 1752965915.611894,
-            "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
-            "src_fps": 30.0,
-            "ocr_texts": []
-        }
-    },
-    {
-        "meta": {
-            "id": 384,
-            "ts": 1752965915.745288,
-            "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
-            "src_fps": 30.0,
-            "ocr_texts": []
-        }
-    },
-    {
-        "meta": {
-            "id": 385,
-            "ts": 1752965915.878125,
-            "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
-            "src_fps": 30.0,
-            "ocr_texts": []
-        }
-    },
-    {
-        "meta": {
-            "id": 386,
-            "ts": 1752965916.044777,
-            "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
-            "src_fps": 30.0,
-            "ocr_texts": []
-        }
-    },
-    {
-        "meta": {
-            "id": 387,
-            "ts": 1752965916.181026,
-            "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
-            "src_fps": 30.0,
-            "ocr_texts": []
-        }
-    },
-    {
-        "meta": {
-            "id": 388,
-            "ts": 1752965916.309687,
-            "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
-            "src_fps": 30.0,
-            "ocr_texts": []
-        }
-    },
-    {
-        "meta": {
-            "id": 389,
-            "ts": 1752965916.447377,
-            "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
-            "src_fps": 30.0,
-            "ocr_texts": []
-        }
-    },
-    {
-        "meta": {
-            "id": 390,
-            "ts": 1752965916.580693,
+            "ts": 1752968091.572121,
             "src": "file:///Users/hiagorodrigues/experiment/openfilter_experiment/openfilter/examples/hello-world/example_video.mp4",
             "src_fps": 30.0,
             "ocr_texts": []
