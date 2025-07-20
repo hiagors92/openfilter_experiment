@@ -44,3 +44,8 @@ jobs:
           timeout 30s poetry run python src/openfilter/script.py || echo "Pipeline finished or timed out"
         env:
           PYTHONPATH: ${{ github.workspace }}/openfilter/src
+            
+      - name: Show OCR Output
+        run: |
+          echo "OCR results:"
+          cat openfilter/output/ocr_results.json || echo "No OCR output found."
